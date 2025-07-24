@@ -1,0 +1,1501 @@
+Age,Department,JobRole,MonthlyIncome,Education,DistanceFromHome,OverTime,Attrition,JobSatisfaction,YearsAtCompany
+47,HR,Research Scientist,16027,4,1,No,No,4,4
+28,Sales,Healthcare Representative,8422,4,24,Yes,No,4,15
+22,Sales,Healthcare Representative,5205,5,15,No,Yes,4,32
+28,R&D,Human Resources,15182,3,5,No,No,3,19
+52,R&D,Research Director,12447,5,25,No,No,3,25
+46,Sales,Manufacturing Director,9092,4,12,No,Yes,4,32
+58,R&D,Manufacturing Director,16034,4,9,Yes,Yes,3,25
+24,HR,Laboratory Technician,10810,1,29,Yes,Yes,4,18
+28,Sales,Manager,4209,4,25,No,Yes,3,34
+42,R&D,Manager,17718,2,17,Yes,No,4,16
+59,R&D,Manager,15389,2,26,No,No,1,11
+28,R&D,Manufacturing Director,18264,3,19,No,No,1,18
+18,R&D,Healthcare Representative,10897,4,8,Yes,No,1,31
+34,R&D,Laboratory Technician,8555,3,18,No,Yes,3,36
+57,HR,Human Resources,16611,5,17,Yes,No,3,4
+19,R&D,Healthcare Representative,15286,1,19,No,No,3,14
+20,R&D,Research Scientist,13285,2,24,No,No,1,38
+44,Sales,Manufacturing Director,16881,2,9,No,No,1,27
+58,Sales,Healthcare Representative,18423,2,8,No,No,3,26
+41,Sales,Sales Executive,4203,4,11,No,No,3,14
+25,R&D,Research Director,18369,1,16,No,Yes,3,25
+52,R&D,Research Director,18639,2,11,No,No,4,1
+46,HR,Laboratory Technician,10215,3,22,No,No,1,24
+43,Sales,Research Director,12018,1,3,Yes,No,4,5
+32,Sales,Manufacturing Director,19413,1,19,No,No,2,36
+25,R&D,Laboratory Technician,3993,5,24,No,No,3,14
+24,HR,Research Scientist,5669,5,27,Yes,No,1,20
+55,Sales,Manager,7146,5,12,No,No,3,7
+55,Sales,Human Resources,15738,4,5,Yes,No,3,30
+23,HR,Manager,3439,1,19,No,No,3,20
+46,HR,Sales Executive,2888,5,5,Yes,No,4,30
+39,R&D,Research Director,14676,3,25,Yes,Yes,4,14
+41,HR,Laboratory Technician,17102,4,12,Yes,No,2,14
+37,HR,Sales Executive,9131,3,26,Yes,No,1,33
+40,Sales,Laboratory Technician,13314,4,2,No,No,1,36
+35,R&D,Research Scientist,3179,5,17,No,No,3,38
+51,HR,Sales Executive,5002,5,16,Yes,No,1,7
+39,HR,Research Director,2697,1,10,No,Yes,1,23
+44,R&D,Research Scientist,5547,4,28,No,No,3,28
+35,HR,Manufacturing Director,12509,2,28,Yes,No,1,6
+43,HR,Laboratory Technician,11769,5,19,No,No,3,22
+60,R&D,Manufacturing Director,6131,2,1,No,No,1,2
+60,Sales,Research Director,2191,5,29,No,No,1,30
+39,Sales,Laboratory Technician,16714,2,22,No,No,1,35
+27,Sales,Manufacturing Director,18989,4,13,No,No,2,19
+30,HR,Manufacturing Director,2653,4,24,No,No,2,0
+38,HR,Healthcare Representative,12220,5,10,No,No,3,29
+60,Sales,Human Resources,8693,5,13,No,No,4,12
+44,R&D,Laboratory Technician,7365,1,8,No,Yes,1,1
+35,R&D,Healthcare Representative,3180,5,3,Yes,No,2,31
+56,HR,Research Director,5059,3,28,No,No,2,29
+47,HR,Laboratory Technician,10002,2,7,No,No,4,26
+38,Sales,Sales Executive,8426,5,10,No,No,2,38
+55,HR,Research Scientist,6650,1,13,No,No,4,22
+25,R&D,Manager,17216,4,12,Yes,No,1,35
+38,R&D,Sales Executive,4115,1,2,Yes,No,4,28
+46,R&D,Laboratory Technician,1879,5,3,No,No,2,39
+23,Sales,Human Resources,8268,5,3,No,No,4,18
+52,R&D,Manufacturing Director,6495,5,6,No,Yes,1,14
+43,Sales,Research Director,17753,5,11,No,No,1,28
+36,R&D,Sales Executive,1563,2,20,Yes,No,2,6
+30,HR,Research Scientist,15569,2,15,No,No,3,31
+41,Sales,Manager,17121,1,13,No,No,4,22
+56,R&D,Laboratory Technician,15870,2,29,Yes,No,1,36
+49,Sales,Sales Executive,19474,5,29,Yes,No,1,18
+47,Sales,Research Director,17383,4,12,Yes,No,3,21
+21,HR,Human Resources,6699,5,29,No,No,1,29
+55,R&D,Healthcare Representative,1600,3,16,No,No,3,18
+52,HR,Manager,12086,1,3,No,No,1,3
+49,HR,Manufacturing Director,15417,1,8,No,No,2,14
+49,HR,Manufacturing Director,6340,1,24,No,No,3,4
+34,Sales,Research Director,5119,2,6,No,No,4,14
+22,Sales,Sales Executive,17136,1,9,No,No,3,5
+20,Sales,Research Director,18814,1,2,Yes,No,3,38
+29,Sales,Research Director,1470,5,24,Yes,No,4,33
+56,R&D,Manufacturing Director,3585,5,18,Yes,Yes,1,14
+54,Sales,Healthcare Representative,3126,3,6,Yes,No,2,3
+60,R&D,Research Director,10754,1,12,No,No,1,18
+38,HR,Healthcare Representative,3165,2,4,No,No,3,27
+47,HR,Human Resources,9262,4,27,Yes,Yes,4,26
+28,HR,Sales Executive,11897,4,23,Yes,No,3,10
+23,HR,Manager,8287,4,21,Yes,No,4,21
+29,HR,Sales Executive,14442,3,14,No,No,1,12
+23,Sales,Manufacturing Director,9840,4,16,No,No,1,11
+48,Sales,Research Director,17976,2,10,No,Yes,4,32
+40,R&D,Manager,12209,4,7,No,No,3,4
+51,R&D,Research Director,8820,3,6,No,No,3,22
+36,HR,Research Scientist,14311,4,20,Yes,Yes,2,12
+39,Sales,Laboratory Technician,7245,1,18,Yes,No,2,27
+22,R&D,Research Scientist,6747,5,20,No,No,2,21
+57,HR,Human Resources,19811,4,15,No,Yes,2,8
+37,HR,Research Scientist,15865,1,5,No,Yes,3,6
+18,HR,Human Resources,13996,1,20,No,No,2,37
+56,Sales,Research Scientist,6062,4,2,No,No,3,22
+48,HR,Research Director,3987,3,4,No,No,1,4
+21,R&D,Healthcare Representative,6646,5,5,No,No,2,0
+30,R&D,Laboratory Technician,4060,2,28,Yes,Yes,2,26
+34,HR,Sales Executive,11508,2,19,No,No,2,28
+57,HR,Laboratory Technician,5642,5,16,No,No,1,5
+51,Sales,Research Director,15923,3,17,No,Yes,1,23
+20,Sales,Sales Executive,1351,1,3,No,No,1,9
+40,R&D,Research Director,9570,3,7,Yes,No,1,3
+27,R&D,Sales Executive,2241,1,7,No,No,1,10
+22,Sales,Manufacturing Director,13345,4,21,No,No,3,21
+28,HR,Sales Executive,6386,5,4,No,No,3,26
+18,Sales,Manufacturing Director,7332,1,4,Yes,No,3,20
+45,Sales,Healthcare Representative,15229,3,21,Yes,No,2,27
+53,R&D,Sales Executive,5368,1,7,Yes,No,1,14
+41,HR,Healthcare Representative,4831,1,3,No,No,1,40
+53,R&D,Manager,10874,4,10,No,No,1,1
+59,Sales,Manufacturing Director,3964,2,13,Yes,No,3,32
+24,R&D,Manager,7181,4,22,Yes,No,2,38
+59,Sales,Manufacturing Director,3474,5,28,No,No,1,32
+50,Sales,Healthcare Representative,6052,4,6,No,No,3,18
+24,R&D,Research Scientist,1846,2,5,No,No,1,27
+58,Sales,Manager,7888,5,16,No,Yes,4,10
+57,HR,Healthcare Representative,15697,1,3,No,No,3,14
+46,R&D,Healthcare Representative,1460,4,5,No,No,1,4
+36,R&D,Manufacturing Director,13634,3,7,No,Yes,2,14
+45,Sales,Healthcare Representative,14262,3,8,Yes,Yes,2,8
+24,HR,Human Resources,5787,2,12,No,No,3,6
+50,R&D,Laboratory Technician,7869,4,25,No,Yes,4,9
+21,R&D,Sales Executive,11357,3,7,No,No,4,21
+39,HR,Sales Executive,11425,4,24,No,No,1,6
+55,Sales,Healthcare Representative,12847,4,17,No,No,3,33
+53,Sales,Laboratory Technician,4600,1,17,No,No,1,5
+58,HR,Laboratory Technician,15764,2,8,No,No,2,11
+41,R&D,Human Resources,17726,4,5,No,Yes,2,27
+41,Sales,Sales Executive,11098,1,11,No,No,4,4
+34,Sales,Research Scientist,2628,2,28,No,No,2,28
+31,R&D,Manufacturing Director,4344,1,12,Yes,No,4,34
+27,R&D,Manufacturing Director,2112,1,1,No,No,1,39
+26,R&D,Healthcare Representative,9956,1,15,No,No,3,2
+20,R&D,Research Director,14729,3,14,Yes,No,4,3
+43,Sales,Laboratory Technician,18800,5,12,No,No,4,8
+33,R&D,Research Director,5078,5,11,No,No,2,12
+54,Sales,Healthcare Representative,6720,1,21,No,No,3,34
+38,R&D,Human Resources,16981,5,8,No,No,4,4
+46,HR,Manufacturing Director,4176,1,23,No,No,2,19
+34,R&D,Healthcare Representative,19872,4,21,No,No,1,23
+23,Sales,Manufacturing Director,14536,2,8,No,No,4,20
+53,R&D,Manager,9374,3,13,Yes,No,3,34
+28,HR,Research Scientist,14338,2,17,Yes,No,1,14
+33,HR,Research Director,16573,5,23,Yes,No,1,25
+57,Sales,Research Scientist,9104,3,18,No,No,1,9
+55,HR,Manager,16246,3,11,No,No,1,8
+58,R&D,Manufacturing Director,12889,1,17,No,Yes,3,22
+19,R&D,Manufacturing Director,9652,5,3,Yes,No,2,27
+53,R&D,Manufacturing Director,14230,2,23,Yes,No,1,19
+48,R&D,Research Director,11345,3,1,Yes,No,4,25
+48,HR,Laboratory Technician,3635,2,25,No,No,3,6
+32,R&D,Research Director,11638,3,11,No,No,2,37
+55,Sales,Healthcare Representative,8300,4,1,No,No,1,32
+30,Sales,Healthcare Representative,8394,1,21,No,Yes,3,21
+53,Sales,Manager,7911,2,21,No,No,4,38
+60,Sales,Research Director,2023,1,25,No,No,4,20
+37,R&D,Healthcare Representative,8611,2,15,Yes,Yes,2,0
+39,HR,Sales Executive,4732,5,27,No,Yes,2,7
+41,Sales,Manufacturing Director,14354,1,10,No,No,1,21
+44,HR,Human Resources,16551,4,25,No,No,2,23
+50,R&D,Healthcare Representative,18536,1,2,No,No,3,31
+45,Sales,Human Resources,13950,5,18,Yes,No,4,2
+27,HR,Manufacturing Director,6797,5,17,Yes,Yes,4,40
+58,HR,Healthcare Representative,16595,4,17,Yes,No,2,2
+25,HR,Healthcare Representative,4412,4,26,No,No,3,33
+56,Sales,Research Director,19455,5,11,No,Yes,4,12
+38,R&D,Laboratory Technician,8376,1,5,No,No,1,31
+59,Sales,Research Director,1220,2,11,Yes,No,1,28
+54,Sales,Laboratory Technician,15835,2,28,No,No,3,28
+43,Sales,Healthcare Representative,2121,2,27,No,No,4,22
+28,R&D,Laboratory Technician,1722,5,3,No,No,3,18
+42,R&D,Manufacturing Director,18466,4,21,No,No,3,17
+35,Sales,Manufacturing Director,3841,4,22,No,No,1,18
+30,R&D,Manufacturing Director,6106,5,24,No,No,1,14
+19,Sales,Human Resources,14822,5,16,No,No,2,24
+20,Sales,Research Director,14027,5,20,No,Yes,2,18
+24,HR,Research Scientist,7276,3,12,No,No,4,39
+29,R&D,Manufacturing Director,17336,4,7,No,Yes,3,38
+39,Sales,Manager,8696,1,10,Yes,No,4,37
+45,R&D,Research Director,4594,1,15,No,No,4,12
+51,R&D,Research Scientist,19527,2,18,No,No,2,10
+38,HR,Human Resources,5630,3,7,No,No,1,21
+45,Sales,Sales Executive,18917,3,27,No,No,3,28
+39,R&D,Healthcare Representative,15415,1,4,Yes,No,4,28
+26,Sales,Research Scientist,9596,5,24,No,No,1,7
+49,R&D,Research Director,6006,2,6,No,No,2,17
+25,R&D,Research Director,5576,2,8,No,No,2,32
+60,Sales,Laboratory Technician,18927,1,18,No,No,1,4
+51,Sales,Laboratory Technician,11446,3,21,No,Yes,4,36
+20,Sales,Research Scientist,2249,3,7,No,No,2,38
+60,R&D,Research Director,1680,3,15,No,No,3,17
+51,HR,Human Resources,8728,3,14,No,No,4,11
+51,R&D,Research Scientist,3753,5,15,No,No,3,33
+43,HR,Research Scientist,8094,5,11,No,No,3,5
+57,Sales,Healthcare Representative,13611,4,13,No,No,4,39
+21,HR,Research Director,19910,5,24,No,No,1,1
+51,R&D,Manufacturing Director,15907,2,7,No,No,3,26
+37,Sales,Manufacturing Director,3071,3,10,No,No,3,22
+40,R&D,Manager,9434,1,9,Yes,Yes,2,22
+34,HR,Sales Executive,6876,4,28,No,No,4,9
+23,HR,Healthcare Representative,1453,5,29,No,No,3,1
+20,HR,Research Director,1997,5,16,No,No,1,24
+48,HR,Manufacturing Director,6080,4,15,No,Yes,2,37
+42,HR,Sales Executive,17275,2,20,No,No,4,34
+46,HR,Sales Executive,1596,5,13,No,No,2,13
+34,HR,Laboratory Technician,18969,4,4,No,Yes,2,25
+23,R&D,Manager,10047,2,11,No,No,1,37
+43,Sales,Research Director,18428,3,9,No,Yes,3,17
+38,R&D,Healthcare Representative,1832,3,23,Yes,No,1,20
+40,HR,Research Director,3202,3,17,Yes,Yes,3,29
+29,R&D,Human Resources,8094,5,14,No,No,2,35
+39,Sales,Human Resources,19178,3,16,No,No,3,30
+50,R&D,Research Scientist,16460,1,11,No,Yes,3,34
+32,HR,Research Director,13710,5,1,Yes,No,4,20
+41,Sales,Manager,1101,1,17,Yes,No,4,3
+24,Sales,Laboratory Technician,3703,5,5,No,No,4,17
+41,HR,Laboratory Technician,11173,1,7,No,No,3,7
+54,R&D,Research Director,9871,3,13,No,No,4,12
+30,Sales,Laboratory Technician,10671,4,17,No,No,1,6
+39,Sales,Human Resources,13357,2,5,No,No,3,17
+32,Sales,Manager,14943,2,6,No,No,4,29
+18,R&D,Sales Executive,8856,2,8,No,Yes,3,5
+59,Sales,Research Director,16094,4,15,No,No,4,35
+55,Sales,Sales Executive,2952,3,1,Yes,Yes,2,38
+37,R&D,Healthcare Representative,15915,3,5,No,No,1,24
+59,R&D,Laboratory Technician,2900,4,1,No,No,4,25
+60,HR,Healthcare Representative,19978,2,12,No,Yes,2,28
+21,R&D,Manager,19054,2,3,No,No,1,39
+44,R&D,Laboratory Technician,1172,4,29,No,No,1,32
+18,Sales,Sales Executive,3299,4,25,No,No,1,39
+27,R&D,Sales Executive,1772,4,5,No,Yes,1,3
+51,HR,Research Scientist,12928,3,1,No,No,2,29
+23,HR,Laboratory Technician,3692,5,26,No,Yes,1,35
+18,R&D,Sales Executive,10121,5,21,No,Yes,4,10
+23,HR,Sales Executive,11703,3,7,No,No,2,40
+57,R&D,Human Resources,2930,1,20,No,No,2,25
+29,R&D,Human Resources,9199,4,3,No,No,4,34
+24,HR,Laboratory Technician,15980,2,13,No,No,4,1
+57,R&D,Manager,12943,1,22,No,No,1,9
+46,HR,Research Director,9486,5,23,Yes,No,1,21
+47,HR,Laboratory Technician,4056,1,28,No,Yes,4,39
+36,HR,Healthcare Representative,9986,3,19,No,Yes,2,31
+47,Sales,Manager,19047,1,23,No,Yes,4,5
+55,R&D,Human Resources,9312,5,15,No,No,3,39
+31,R&D,Healthcare Representative,19962,3,25,Yes,No,1,26
+46,Sales,Manager,12415,4,14,Yes,No,2,26
+35,Sales,Sales Executive,10886,4,21,No,No,4,35
+31,Sales,Manager,17058,2,14,No,No,2,18
+31,Sales,Laboratory Technician,7980,2,8,No,No,2,5
+29,R&D,Manufacturing Director,16434,4,20,No,No,1,22
+19,Sales,Manager,9192,4,5,No,No,2,30
+30,Sales,Manager,17110,1,19,Yes,No,4,32
+52,Sales,Research Director,1176,3,14,Yes,No,1,9
+46,Sales,Manager,9484,4,14,No,No,3,29
+31,HR,Human Resources,18270,5,25,No,No,3,8
+46,HR,Laboratory Technician,9572,5,7,Yes,No,1,15
+42,R&D,Research Director,14246,4,12,No,No,4,32
+29,R&D,Manufacturing Director,16171,4,10,No,No,4,9
+53,Sales,Human Resources,3711,5,21,No,No,1,24
+21,HR,Laboratory Technician,13279,4,17,No,No,4,22
+29,R&D,Sales Executive,14532,4,24,Yes,No,1,17
+30,R&D,Healthcare Representative,12838,2,9,Yes,No,4,30
+58,R&D,Manager,11526,1,10,No,No,1,35
+54,HR,Human Resources,9507,4,12,Yes,No,3,4
+38,R&D,Human Resources,3123,3,25,No,No,4,34
+40,HR,Human Resources,12367,5,8,No,No,1,16
+45,HR,Research Director,17421,4,21,Yes,Yes,4,7
+41,Sales,Manufacturing Director,1352,1,12,No,No,4,1
+18,Sales,Sales Executive,6548,3,8,Yes,No,3,3
+44,Sales,Sales Executive,6940,5,3,No,Yes,1,34
+34,R&D,Manager,8487,2,28,No,No,4,25
+52,R&D,Manager,6247,1,10,No,Yes,2,4
+31,R&D,Healthcare Representative,15900,1,1,No,No,2,39
+53,R&D,Research Director,5572,2,11,No,Yes,4,31
+28,Sales,Healthcare Representative,9970,4,13,No,No,4,38
+24,R&D,Manager,10792,1,15,Yes,No,2,21
+28,Sales,Research Director,7261,3,21,Yes,Yes,3,3
+18,Sales,Research Director,12621,1,9,No,No,1,1
+30,HR,Manufacturing Director,12698,4,16,No,No,1,35
+41,HR,Healthcare Representative,19932,3,20,Yes,No,3,30
+24,R&D,Manufacturing Director,12776,1,4,No,No,1,39
+58,R&D,Research Scientist,12386,5,24,No,Yes,3,39
+44,R&D,Sales Executive,8520,4,22,No,Yes,4,10
+18,HR,Healthcare Representative,4808,4,6,Yes,No,2,8
+30,Sales,Manufacturing Director,7745,2,10,Yes,No,4,23
+26,Sales,Research Director,7267,4,19,Yes,No,2,10
+23,Sales,Sales Executive,5116,2,15,No,No,3,19
+41,R&D,Research Scientist,9783,3,24,No,No,2,28
+50,R&D,Research Scientist,13066,3,28,No,No,3,4
+34,R&D,Research Director,7952,4,3,No,No,3,34
+58,HR,Human Resources,4382,1,3,No,Yes,4,7
+21,Sales,Research Scientist,3799,4,9,No,No,4,7
+45,R&D,Research Director,15701,3,18,No,No,1,40
+40,HR,Manager,8471,5,13,No,No,1,29
+19,HR,Sales Executive,8701,2,17,No,No,3,20
+26,HR,Research Director,12826,4,3,No,No,3,17
+51,Sales,Manager,5267,5,17,No,No,4,38
+45,Sales,Research Scientist,1618,4,20,Yes,No,3,21
+31,R&D,Research Scientist,19546,3,20,Yes,No,3,36
+43,Sales,Human Resources,12431,3,2,No,No,4,23
+46,HR,Human Resources,5379,1,18,No,No,1,7
+18,R&D,Human Resources,15669,4,9,No,No,1,3
+37,R&D,Manufacturing Director,5280,1,2,No,No,3,14
+18,Sales,Manager,5936,5,3,No,Yes,2,10
+46,R&D,Research Director,19751,3,29,No,Yes,3,36
+36,R&D,Manufacturing Director,11923,1,10,No,No,1,25
+29,R&D,Healthcare Representative,8446,3,24,No,Yes,3,40
+19,R&D,Sales Executive,16807,3,8,No,No,2,3
+50,HR,Research Director,19554,5,19,Yes,No,3,35
+46,Sales,Research Director,18876,4,18,Yes,No,1,12
+42,HR,Manufacturing Director,7756,2,29,No,Yes,1,36
+40,R&D,Research Director,1824,4,16,Yes,No,3,34
+20,Sales,Human Resources,13474,1,24,No,Yes,2,2
+49,Sales,Research Director,9590,4,15,No,No,3,15
+55,R&D,Research Scientist,4487,2,3,No,No,3,1
+37,Sales,Sales Executive,2889,2,23,Yes,Yes,3,21
+41,HR,Manager,17852,1,24,No,No,2,38
+20,Sales,Research Director,6821,5,8,No,No,2,3
+37,HR,Manufacturing Director,19769,5,2,Yes,Yes,2,18
+36,R&D,Healthcare Representative,15149,3,22,No,No,3,2
+33,Sales,Laboratory Technician,9950,1,17,No,No,3,22
+47,R&D,Research Director,14465,5,2,No,No,2,5
+57,R&D,Human Resources,12375,4,6,Yes,Yes,2,37
+33,HR,Research Scientist,16474,2,7,No,Yes,4,14
+45,HR,Human Resources,15541,1,24,No,Yes,4,22
+43,HR,Laboratory Technician,9228,5,6,No,No,4,5
+46,R&D,Research Director,17875,2,28,Yes,No,4,19
+23,R&D,Research Scientist,5539,4,13,No,No,4,33
+58,HR,Research Scientist,14275,1,1,No,Yes,4,23
+24,HR,Manufacturing Director,5342,2,9,No,No,2,3
+22,R&D,Manager,18273,1,2,No,No,2,22
+36,R&D,Laboratory Technician,12451,4,8,No,Yes,1,28
+19,Sales,Human Resources,3366,5,25,No,Yes,3,12
+59,Sales,Manufacturing Director,17397,3,25,No,Yes,1,23
+20,HR,Manufacturing Director,8466,1,25,Yes,No,2,4
+36,R&D,Research Scientist,4361,4,25,No,No,1,29
+60,R&D,Laboratory Technician,15129,4,1,No,No,4,37
+35,R&D,Research Director,8259,3,28,No,Yes,3,0
+43,Sales,Human Resources,16617,5,4,Yes,No,1,38
+37,R&D,Research Director,2232,2,28,No,Yes,3,31
+21,HR,Research Director,6290,5,19,No,No,1,10
+50,Sales,Laboratory Technician,17170,4,10,No,No,2,29
+58,R&D,Research Director,15732,5,8,No,No,3,5
+41,HR,Healthcare Representative,13254,5,15,Yes,No,1,21
+46,Sales,Manager,19673,2,5,No,No,1,3
+49,HR,Manufacturing Director,12721,4,3,No,No,3,3
+39,R&D,Manufacturing Director,18493,3,2,Yes,No,4,35
+44,Sales,Manufacturing Director,13827,4,2,No,No,1,37
+19,HR,Research Director,16564,3,1,Yes,No,1,28
+26,Sales,Sales Executive,13868,3,22,No,No,4,3
+23,Sales,Sales Executive,13006,3,5,No,No,3,36
+51,R&D,Laboratory Technician,2828,4,11,No,No,4,26
+37,HR,Research Director,3007,4,10,Yes,Yes,3,0
+21,R&D,Healthcare Representative,1529,1,16,No,No,2,37
+32,R&D,Human Resources,8519,5,16,Yes,No,4,34
+22,R&D,Human Resources,16906,3,4,No,No,2,30
+54,HR,Manager,9295,3,10,No,No,4,32
+33,R&D,Research Scientist,6933,3,22,Yes,No,3,8
+25,HR,Human Resources,10133,1,14,No,Yes,3,29
+48,R&D,Research Scientist,16567,2,4,Yes,No,3,20
+21,R&D,Research Director,4673,2,23,Yes,No,4,39
+19,Sales,Human Resources,6806,5,7,Yes,Yes,2,13
+38,HR,Manufacturing Director,8794,5,3,No,No,1,33
+51,Sales,Research Scientist,7636,4,27,No,No,1,15
+44,R&D,Manager,11348,2,22,Yes,No,1,19
+59,HR,Research Director,11314,5,28,Yes,No,4,19
+20,Sales,Laboratory Technician,3468,3,28,No,No,4,22
+47,HR,Sales Executive,4732,2,18,Yes,No,2,22
+51,R&D,Research Director,5948,1,20,Yes,No,1,7
+31,Sales,Manufacturing Director,8111,5,23,No,No,1,32
+48,R&D,Manager,2629,2,22,Yes,No,3,27
+47,HR,Manufacturing Director,1463,2,12,No,No,4,4
+20,Sales,Laboratory Technician,19820,2,7,No,No,4,27
+42,HR,Manager,10824,5,22,No,No,1,13
+57,Sales,Laboratory Technician,2064,4,22,No,No,2,19
+43,Sales,Human Resources,14259,2,10,No,No,1,14
+22,HR,Manager,12589,5,23,Yes,No,4,25
+47,HR,Manager,2149,3,19,No,No,2,27
+45,Sales,Manager,13571,3,19,Yes,Yes,4,21
+23,HR,Manager,3099,3,2,No,No,4,26
+34,HR,Research Scientist,12059,4,4,Yes,No,1,29
+32,HR,Human Resources,15775,3,25,No,No,2,36
+33,Sales,Laboratory Technician,8319,2,5,No,No,1,14
+45,R&D,Healthcare Representative,6878,4,12,No,No,4,35
+55,HR,Human Resources,13817,2,23,No,No,4,29
+49,R&D,Research Scientist,9208,5,26,No,No,4,2
+33,Sales,Human Resources,2459,1,10,Yes,No,3,13
+40,HR,Manufacturing Director,19235,1,11,No,No,4,27
+54,Sales,Manager,19048,1,5,No,No,3,2
+29,Sales,Sales Executive,18301,5,28,Yes,Yes,2,13
+31,HR,Human Resources,16250,2,17,No,No,4,4
+57,HR,Research Scientist,13603,3,15,Yes,No,3,9
+47,Sales,Research Scientist,19759,2,12,No,No,4,37
+54,HR,Healthcare Representative,14827,3,12,No,Yes,1,10
+20,Sales,Healthcare Representative,9576,1,7,No,No,4,20
+59,Sales,Manufacturing Director,4337,1,18,Yes,No,1,19
+45,HR,Laboratory Technician,3054,5,13,No,Yes,1,13
+22,Sales,Research Scientist,4133,4,9,No,No,1,35
+43,HR,Research Scientist,19299,3,7,No,Yes,3,31
+31,Sales,Healthcare Representative,19341,1,18,No,No,3,31
+49,HR,Sales Executive,7469,5,13,No,No,4,29
+58,HR,Human Resources,6637,4,29,No,No,4,2
+31,Sales,Research Director,12253,4,4,No,No,2,38
+47,HR,Manager,5819,4,13,No,Yes,2,25
+25,Sales,Research Scientist,2336,4,5,No,No,1,6
+37,R&D,Healthcare Representative,17455,4,20,No,Yes,4,8
+45,Sales,Human Resources,12676,4,9,Yes,Yes,2,0
+57,Sales,Healthcare Representative,7835,3,2,Yes,No,2,31
+18,R&D,Research Scientist,1382,5,24,No,No,4,26
+57,Sales,Research Director,4998,2,18,No,No,4,27
+26,HR,Manufacturing Director,2452,4,25,Yes,No,3,12
+25,R&D,Sales Executive,1184,5,7,No,No,2,15
+48,HR,Healthcare Representative,13808,2,4,No,No,3,28
+37,Sales,Laboratory Technician,8285,3,10,No,No,4,4
+25,Sales,Sales Executive,10577,2,14,No,No,1,21
+36,R&D,Human Resources,3839,1,27,No,No,2,35
+55,Sales,Healthcare Representative,19041,4,14,No,No,2,32
+30,R&D,Laboratory Technician,3309,5,28,No,No,2,24
+28,Sales,Manager,11194,1,13,No,Yes,2,16
+48,Sales,Research Director,15536,4,18,No,No,2,38
+49,Sales,Sales Executive,16297,5,19,No,Yes,3,23
+23,R&D,Research Scientist,16399,1,29,Yes,Yes,2,11
+18,R&D,Sales Executive,14311,5,7,Yes,No,4,21
+54,HR,Manufacturing Director,1938,3,16,No,Yes,1,0
+56,R&D,Healthcare Representative,15865,5,19,No,No,1,19
+43,R&D,Manager,6502,2,25,No,No,4,37
+46,Sales,Manager,19249,2,26,No,No,3,28
+31,HR,Manager,11388,5,20,Yes,No,3,1
+38,R&D,Human Resources,12359,3,7,No,No,2,20
+21,HR,Laboratory Technician,7558,2,28,No,No,4,20
+54,Sales,Research Director,11505,5,12,Yes,No,2,21
+52,Sales,Human Resources,8126,1,16,No,No,4,40
+29,R&D,Manager,17169,1,17,Yes,Yes,3,33
+52,Sales,Human Resources,2210,4,16,No,No,1,7
+47,HR,Healthcare Representative,6004,2,25,Yes,No,2,1
+26,HR,Sales Executive,6130,4,1,No,No,3,33
+42,R&D,Healthcare Representative,14682,3,10,Yes,Yes,2,31
+30,R&D,Manager,18381,3,10,No,No,2,5
+25,Sales,Research Director,4554,3,23,No,Yes,4,25
+40,Sales,Manager,2454,2,20,No,No,1,21
+31,R&D,Research Director,7747,5,3,No,No,4,17
+28,HR,Sales Executive,14649,2,2,No,No,1,0
+32,HR,Research Scientist,3790,5,11,No,No,1,15
+55,R&D,Manager,14722,3,29,No,Yes,2,23
+20,Sales,Research Scientist,11346,2,4,Yes,No,3,9
+42,R&D,Research Scientist,5604,1,8,No,No,1,39
+36,HR,Manufacturing Director,14322,3,15,No,No,3,26
+25,R&D,Healthcare Representative,14862,1,18,No,No,4,34
+48,Sales,Human Resources,5191,5,11,No,No,3,5
+40,Sales,Human Resources,16173,3,25,No,No,1,30
+54,R&D,Research Scientist,13888,3,12,No,No,1,0
+48,HR,Research Scientist,19069,2,21,Yes,No,2,6
+36,Sales,Laboratory Technician,16589,4,12,No,No,1,36
+25,HR,Manufacturing Director,18086,3,21,No,No,4,24
+52,Sales,Laboratory Technician,17860,1,13,No,No,4,29
+38,HR,Manager,12729,3,4,No,No,4,25
+44,Sales,Manufacturing Director,11881,3,12,No,No,4,21
+32,HR,Research Scientist,16266,3,2,No,No,2,39
+20,R&D,Manager,12905,2,14,No,No,1,2
+49,Sales,Healthcare Representative,18456,2,7,Yes,No,2,29
+48,R&D,Healthcare Representative,19676,5,21,No,No,2,5
+53,HR,Laboratory Technician,14529,2,14,Yes,No,3,33
+54,Sales,Research Scientist,6795,4,28,No,Yes,1,14
+32,R&D,Sales Executive,5125,3,11,Yes,No,1,15
+42,Sales,Laboratory Technician,12241,5,5,No,No,3,17
+60,HR,Sales Executive,12800,5,9,Yes,Yes,1,9
+38,HR,Research Director,2839,3,4,No,Yes,2,15
+18,Sales,Manager,5726,1,13,No,Yes,4,40
+22,HR,Research Director,10813,4,23,No,No,1,12
+49,Sales,Manufacturing Director,17657,3,26,No,No,2,27
+53,HR,Research Director,19080,1,22,No,No,3,16
+33,HR,Manufacturing Director,10649,5,2,Yes,No,3,23
+24,R&D,Human Resources,1994,3,3,Yes,No,2,21
+53,R&D,Research Scientist,7502,5,23,Yes,No,4,30
+57,R&D,Human Resources,16946,4,8,Yes,No,1,8
+18,R&D,Manager,2653,3,10,No,No,4,1
+31,R&D,Research Scientist,19616,1,8,No,Yes,4,7
+41,R&D,Research Scientist,7489,4,23,Yes,No,1,6
+53,Sales,Research Director,10497,1,29,Yes,No,1,33
+35,HR,Human Resources,17574,3,27,No,No,1,25
+47,R&D,Human Resources,18849,2,3,No,Yes,1,9
+18,R&D,Research Director,10519,3,4,No,Yes,3,11
+49,HR,Human Resources,7120,2,17,No,No,3,9
+32,Sales,Research Scientist,16505,3,20,No,No,1,14
+47,R&D,Manager,1410,4,15,Yes,No,1,2
+36,Sales,Sales Executive,4087,1,7,No,No,2,40
+18,R&D,Manufacturing Director,14932,2,7,No,No,1,23
+41,R&D,Research Scientist,13807,5,22,No,Yes,1,34
+49,R&D,Human Resources,15682,4,3,No,No,2,24
+31,R&D,Laboratory Technician,11167,2,15,No,No,4,7
+38,R&D,Healthcare Representative,15737,5,3,Yes,No,1,40
+22,Sales,Healthcare Representative,12718,4,18,No,No,4,11
+51,Sales,Manager,13106,4,27,Yes,No,2,32
+41,Sales,Healthcare Representative,7297,3,29,Yes,Yes,2,37
+42,R&D,Laboratory Technician,4692,2,26,No,No,1,22
+38,R&D,Research Director,9206,1,28,No,No,2,40
+57,Sales,Sales Executive,4438,5,29,No,No,3,18
+19,HR,Healthcare Representative,3678,1,18,Yes,No,4,39
+45,R&D,Human Resources,12329,2,10,No,Yes,1,9
+55,HR,Healthcare Representative,1796,4,5,No,Yes,4,7
+49,Sales,Human Resources,8355,3,5,Yes,No,3,34
+21,R&D,Manager,1553,5,17,No,Yes,4,39
+39,Sales,Manufacturing Director,4954,3,17,Yes,No,3,39
+21,HR,Healthcare Representative,12182,4,14,No,No,1,14
+35,Sales,Laboratory Technician,2681,5,2,No,No,4,14
+60,HR,Research Director,10030,2,7,Yes,No,2,1
+24,HR,Healthcare Representative,1644,1,16,No,No,4,11
+39,Sales,Manufacturing Director,10319,3,5,Yes,No,1,22
+57,HR,Sales Executive,12357,4,17,No,No,2,34
+20,HR,Healthcare Representative,4073,2,2,Yes,No,4,34
+26,Sales,Sales Executive,18353,4,28,Yes,No,2,36
+54,R&D,Manufacturing Director,8945,2,12,Yes,No,2,1
+47,R&D,Manager,6006,3,2,No,No,2,9
+52,Sales,Manager,12439,5,17,No,No,4,11
+43,Sales,Sales Executive,11944,1,10,No,No,3,21
+55,R&D,Research Scientist,17997,1,1,Yes,No,4,39
+22,Sales,Laboratory Technician,3038,1,6,Yes,Yes,2,21
+54,Sales,Research Director,15396,3,3,No,No,1,15
+53,HR,Sales Executive,18226,5,9,Yes,No,4,39
+30,Sales,Manufacturing Director,17812,3,14,No,Yes,4,22
+43,Sales,Manager,10367,4,28,No,Yes,4,8
+21,Sales,Human Resources,2145,2,19,No,Yes,4,11
+34,R&D,Research Director,9607,2,14,No,Yes,4,25
+26,R&D,Research Scientist,13598,5,18,Yes,Yes,4,9
+36,HR,Human Resources,6565,3,11,No,No,2,14
+20,HR,Sales Executive,4916,1,10,No,No,1,17
+59,HR,Laboratory Technician,2387,1,10,No,Yes,4,4
+41,R&D,Manager,11754,1,15,No,No,2,26
+41,Sales,Healthcare Representative,12024,2,15,Yes,No,1,38
+30,HR,Laboratory Technician,9290,3,17,No,Yes,2,3
+19,R&D,Research Scientist,10709,5,17,No,No,4,1
+43,HR,Research Director,5579,4,21,No,Yes,2,36
+41,HR,Laboratory Technician,11443,1,27,No,Yes,3,13
+28,HR,Manufacturing Director,18386,1,14,Yes,No,4,8
+22,HR,Human Resources,4578,4,16,No,Yes,1,6
+45,Sales,Manager,3138,5,16,No,Yes,2,37
+41,R&D,Research Director,8100,1,25,Yes,No,4,4
+27,Sales,Manager,4707,2,25,Yes,No,4,12
+28,R&D,Sales Executive,9008,5,27,Yes,Yes,3,19
+46,Sales,Research Scientist,4084,3,24,No,No,4,40
+25,Sales,Manufacturing Director,6628,1,12,No,No,3,21
+35,Sales,Research Scientist,11560,3,18,Yes,No,2,5
+32,R&D,Research Scientist,17757,1,7,No,No,4,29
+29,HR,Laboratory Technician,8127,1,24,Yes,No,3,15
+25,Sales,Research Director,17920,5,6,Yes,No,1,26
+18,HR,Manager,1672,2,9,Yes,No,4,24
+58,HR,Research Scientist,12278,2,25,No,Yes,3,6
+26,Sales,Research Director,2511,1,16,No,No,4,5
+57,HR,Manager,15967,1,17,No,No,4,28
+51,HR,Manager,6382,4,9,No,Yes,4,9
+56,HR,Laboratory Technician,6208,1,7,No,No,1,32
+53,HR,Sales Executive,6059,5,20,Yes,No,1,29
+55,HR,Manufacturing Director,17621,2,19,No,No,2,13
+56,HR,Manufacturing Director,5189,4,4,No,No,4,0
+42,Sales,Sales Executive,8218,5,16,No,No,2,16
+58,Sales,Research Director,3740,4,3,No,No,1,30
+45,Sales,Healthcare Representative,2833,4,5,Yes,Yes,3,19
+20,HR,Research Director,18595,4,9,No,No,1,24
+31,HR,Research Director,1086,2,28,Yes,No,4,36
+28,Sales,Manager,19386,5,15,No,No,4,13
+37,Sales,Research Scientist,13248,2,24,Yes,No,1,4
+21,R&D,Healthcare Representative,2495,3,25,Yes,No,2,30
+33,Sales,Human Resources,7512,1,29,No,No,1,6
+29,R&D,Laboratory Technician,13363,4,6,No,No,2,1
+59,Sales,Sales Executive,12920,1,28,No,Yes,3,11
+45,Sales,Research Director,14063,3,26,No,Yes,4,0
+33,Sales,Research Scientist,15040,2,1,No,No,2,24
+28,Sales,Laboratory Technician,17612,3,4,No,No,3,22
+25,Sales,Healthcare Representative,1460,1,8,Yes,No,4,15
+41,Sales,Sales Executive,19717,3,9,No,Yes,1,28
+21,Sales,Manager,13330,2,16,Yes,No,3,13
+27,Sales,Research Director,5325,5,9,Yes,Yes,1,6
+34,Sales,Human Resources,7768,4,21,No,Yes,3,7
+43,R&D,Sales Executive,19313,2,11,No,Yes,1,19
+21,HR,Human Resources,5508,5,7,No,No,2,4
+33,Sales,Research Director,10119,3,13,Yes,No,3,28
+41,Sales,Manager,11284,3,1,Yes,Yes,3,24
+37,R&D,Manager,1175,2,11,No,No,1,19
+26,Sales,Manager,5513,3,14,Yes,No,1,8
+37,R&D,Research Director,7777,2,20,No,No,3,16
+47,HR,Sales Executive,15770,2,1,No,Yes,1,28
+40,Sales,Manufacturing Director,18054,3,10,Yes,No,1,6
+32,HR,Human Resources,11616,1,28,Yes,No,3,20
+24,Sales,Research Scientist,17610,1,14,Yes,No,2,21
+41,Sales,Research Scientist,8252,4,7,No,No,2,24
+59,Sales,Manufacturing Director,1331,3,5,Yes,No,4,24
+57,Sales,Sales Executive,17763,4,20,No,No,1,12
+59,R&D,Research Scientist,8793,3,5,Yes,No,4,23
+18,R&D,Manager,4508,3,3,No,Yes,3,4
+46,R&D,Sales Executive,19632,1,10,Yes,No,4,16
+47,Sales,Sales Executive,11224,4,12,No,Yes,3,31
+46,Sales,Laboratory Technician,19094,1,2,Yes,No,3,3
+19,R&D,Manager,19607,1,20,No,No,2,3
+49,HR,Healthcare Representative,10213,3,29,No,No,1,24
+58,HR,Laboratory Technician,9665,5,12,No,No,1,2
+49,Sales,Manufacturing Director,15761,5,24,No,No,4,40
+40,HR,Human Resources,12813,3,11,Yes,No,3,15
+36,R&D,Sales Executive,5945,3,20,No,No,3,13
+52,R&D,Manager,19337,2,22,No,No,1,3
+43,R&D,Research Director,4098,3,5,Yes,No,1,27
+26,R&D,Sales Executive,9820,1,21,No,No,1,0
+50,R&D,Sales Executive,4781,4,15,No,Yes,2,16
+51,Sales,Manager,2273,2,13,No,No,2,19
+44,R&D,Research Director,9264,1,22,Yes,No,3,3
+60,Sales,Sales Executive,5895,4,3,Yes,No,3,38
+29,HR,Research Scientist,7593,4,22,Yes,No,3,35
+42,R&D,Research Scientist,18964,2,26,No,No,3,12
+39,HR,Manufacturing Director,9934,1,11,No,No,3,23
+39,Sales,Research Scientist,15919,3,1,No,No,3,10
+52,R&D,Human Resources,13308,5,29,No,No,1,13
+34,R&D,Sales Executive,6006,4,2,No,No,2,12
+56,R&D,Research Scientist,4833,2,23,No,No,1,0
+50,Sales,Research Director,9560,3,16,No,No,2,24
+41,HR,Manufacturing Director,8578,5,17,No,No,3,19
+44,R&D,Manufacturing Director,9856,1,7,No,No,3,21
+44,R&D,Research Scientist,10064,4,21,No,No,3,11
+53,HR,Laboratory Technician,5896,5,6,No,No,1,1
+53,HR,Research Director,2245,4,6,No,No,2,14
+54,HR,Human Resources,4987,4,10,No,No,2,13
+26,HR,Manager,19698,5,13,Yes,No,4,10
+37,HR,Research Scientist,15681,1,20,No,No,3,24
+29,Sales,Manager,4133,3,24,Yes,No,4,25
+19,R&D,Healthcare Representative,14611,2,11,Yes,No,3,40
+26,Sales,Human Resources,5815,4,22,No,No,1,33
+40,Sales,Research Director,16577,5,17,Yes,Yes,4,20
+59,HR,Laboratory Technician,5166,2,11,No,No,1,6
+32,Sales,Laboratory Technician,6436,2,24,No,No,2,30
+32,HR,Manager,3070,4,28,Yes,No,2,21
+23,Sales,Research Director,11850,3,18,No,No,3,20
+59,Sales,Healthcare Representative,13256,4,19,No,No,4,22
+30,R&D,Human Resources,2323,4,23,No,Yes,4,7
+37,HR,Human Resources,8214,3,17,No,No,4,27
+38,R&D,Manufacturing Director,13720,5,9,No,No,2,14
+39,R&D,Healthcare Representative,11424,1,19,No,No,3,8
+22,HR,Human Resources,13389,1,11,No,No,1,22
+40,R&D,Healthcare Representative,5390,4,17,Yes,No,3,5
+56,R&D,Research Scientist,2975,1,16,Yes,No,4,6
+22,R&D,Healthcare Representative,9498,5,17,Yes,Yes,3,10
+38,R&D,Manager,2598,3,21,Yes,Yes,2,31
+41,R&D,Laboratory Technician,1560,2,5,No,No,1,8
+27,R&D,Manufacturing Director,14497,2,23,No,Yes,4,2
+28,R&D,Manager,18638,2,29,No,No,2,38
+56,HR,Research Director,1792,3,11,Yes,No,2,28
+30,R&D,Manager,6689,4,3,Yes,Yes,3,8
+30,R&D,Research Scientist,7024,4,26,No,Yes,1,9
+50,HR,Manufacturing Director,17948,1,23,No,Yes,4,33
+23,HR,Research Scientist,8134,4,29,No,Yes,4,40
+48,R&D,Human Resources,5002,5,12,Yes,No,4,12
+44,Sales,Research Scientist,13135,1,17,No,Yes,3,0
+23,Sales,Sales Executive,13375,4,6,No,No,2,26
+56,Sales,Manager,17557,4,7,No,No,2,32
+50,Sales,Laboratory Technician,8766,4,11,No,No,2,30
+40,Sales,Research Scientist,3579,3,16,No,No,1,21
+60,R&D,Manager,4173,1,4,No,No,1,17
+30,R&D,Research Director,13886,3,19,Yes,Yes,1,4
+50,Sales,Manager,1622,1,1,No,No,4,27
+26,HR,Manufacturing Director,12547,2,18,Yes,No,2,16
+29,Sales,Sales Executive,18917,3,10,No,No,4,33
+29,HR,Manager,2231,2,26,No,No,3,28
+42,R&D,Research Scientist,2798,2,6,No,No,2,8
+41,HR,Manager,6475,2,4,No,No,1,21
+56,Sales,Manager,19426,3,12,No,No,2,15
+53,HR,Research Director,13151,5,28,No,No,3,8
+22,Sales,Sales Executive,2074,5,10,Yes,No,3,34
+50,HR,Manager,12195,4,14,Yes,No,4,32
+46,HR,Laboratory Technician,13255,4,27,No,Yes,2,9
+32,Sales,Research Director,11636,2,14,No,No,2,5
+48,R&D,Manager,14620,5,25,No,Yes,1,13
+22,HR,Human Resources,3694,3,1,No,No,1,8
+28,HR,Human Resources,17158,3,27,No,No,2,24
+59,HR,Research Director,13853,4,26,Yes,No,3,20
+40,HR,Manager,8428,5,3,No,No,3,36
+50,Sales,Human Resources,13177,2,22,No,No,2,17
+25,HR,Sales Executive,15373,2,20,No,No,2,12
+32,R&D,Human Resources,17389,4,10,No,Yes,3,32
+58,HR,Human Resources,19838,3,5,Yes,No,2,13
+45,HR,Manager,12614,3,8,No,No,3,31
+23,Sales,Research Scientist,2145,1,27,No,No,3,17
+54,Sales,Manager,8382,5,24,Yes,No,3,10
+47,Sales,Manufacturing Director,1031,3,28,No,No,1,19
+48,Sales,Manager,16800,2,24,No,Yes,1,3
+60,Sales,Laboratory Technician,14846,5,18,Yes,Yes,3,39
+54,HR,Manufacturing Director,9598,4,7,No,Yes,2,6
+47,R&D,Research Director,17857,4,20,No,No,3,18
+33,HR,Human Resources,3208,2,24,No,No,3,21
+33,R&D,Human Resources,13939,1,27,No,No,3,7
+59,HR,Research Director,9760,2,26,No,No,2,38
+29,R&D,Research Scientist,4828,2,17,No,No,3,18
+21,HR,Sales Executive,11689,3,16,No,Yes,2,5
+34,R&D,Manufacturing Director,5106,1,12,Yes,Yes,1,28
+47,R&D,Healthcare Representative,14175,5,14,No,No,3,1
+50,R&D,Healthcare Representative,1637,4,26,No,No,1,7
+19,Sales,Sales Executive,19653,3,26,No,No,1,39
+25,R&D,Laboratory Technician,7414,2,25,No,No,1,40
+35,Sales,Manager,6144,3,17,No,No,4,28
+43,Sales,Manufacturing Director,5365,4,2,No,No,2,3
+33,Sales,Human Resources,1593,5,17,No,Yes,4,18
+20,Sales,Research Scientist,2849,4,13,No,No,1,22
+38,HR,Research Scientist,11584,5,20,Yes,No,1,6
+30,R&D,Healthcare Representative,18493,5,25,No,Yes,2,20
+50,Sales,Manager,7843,5,9,No,No,1,37
+21,R&D,Research Scientist,15744,3,8,Yes,No,2,30
+18,R&D,Laboratory Technician,11253,4,18,Yes,No,4,23
+59,Sales,Human Resources,4117,1,10,No,No,2,11
+56,R&D,Research Scientist,4114,2,23,No,No,2,33
+19,R&D,Manager,9028,4,7,No,Yes,1,7
+36,R&D,Manager,12020,2,27,Yes,No,3,10
+54,HR,Manager,9735,3,24,No,No,2,2
+20,HR,Human Resources,19152,5,21,No,Yes,1,31
+60,HR,Human Resources,19235,5,8,No,Yes,4,1
+57,Sales,Manufacturing Director,7791,2,2,Yes,Yes,1,17
+60,R&D,Laboratory Technician,15797,4,23,No,No,4,30
+35,HR,Research Scientist,6213,5,10,No,No,3,31
+43,HR,Healthcare Representative,15105,2,20,No,No,1,18
+22,R&D,Healthcare Representative,19018,5,20,No,No,2,39
+24,Sales,Healthcare Representative,13013,1,21,No,No,3,27
+22,Sales,Sales Executive,18265,2,24,Yes,No,3,39
+45,HR,Human Resources,6506,1,23,No,Yes,3,39
+21,Sales,Sales Executive,15019,5,1,Yes,Yes,1,28
+45,Sales,Healthcare Representative,8665,4,12,No,No,4,35
+44,R&D,Research Scientist,15076,5,28,No,No,4,34
+40,R&D,Healthcare Representative,12346,5,21,No,No,3,3
+45,R&D,Healthcare Representative,3760,5,7,Yes,Yes,1,9
+47,HR,Sales Executive,1783,2,2,Yes,No,1,33
+57,Sales,Laboratory Technician,16097,5,29,Yes,No,3,8
+55,Sales,Healthcare Representative,13136,5,9,Yes,Yes,2,34
+32,R&D,Manager,10364,3,11,No,No,3,32
+35,HR,Manufacturing Director,1210,5,2,Yes,No,1,2
+59,Sales,Manager,7215,5,11,No,No,1,29
+45,HR,Manager,18404,5,18,Yes,No,4,32
+55,R&D,Human Resources,5257,3,7,Yes,No,2,21
+43,Sales,Research Director,15722,3,15,No,No,1,19
+59,HR,Laboratory Technician,13433,5,4,No,Yes,2,24
+52,HR,Laboratory Technician,12660,5,21,Yes,No,3,0
+48,Sales,Sales Executive,12375,5,5,No,No,2,24
+44,Sales,Sales Executive,5511,2,7,Yes,No,2,16
+50,R&D,Sales Executive,5994,5,12,No,No,3,3
+40,Sales,Sales Executive,18665,3,16,Yes,Yes,3,8
+59,Sales,Manufacturing Director,14131,2,8,Yes,No,3,12
+36,R&D,Manufacturing Director,16850,2,8,Yes,No,2,23
+36,HR,Research Director,10636,4,28,Yes,No,4,21
+40,HR,Human Resources,10654,2,1,Yes,No,1,37
+35,HR,Manufacturing Director,7595,4,7,No,No,3,1
+47,Sales,Manager,18074,1,5,Yes,No,3,1
+26,R&D,Research Director,13899,3,22,No,Yes,2,10
+51,Sales,Manufacturing Director,3603,4,28,No,No,3,13
+25,HR,Human Resources,5542,3,11,No,No,3,28
+50,HR,Research Director,10075,2,4,Yes,No,3,13
+21,R&D,Manufacturing Director,8912,1,25,No,No,1,30
+43,Sales,Human Resources,3828,5,2,No,No,4,17
+34,Sales,Research Director,15520,3,20,Yes,No,1,21
+18,HR,Research Scientist,18129,2,13,Yes,No,1,4
+41,R&D,Manager,14169,2,29,Yes,No,1,12
+32,HR,Human Resources,14119,2,19,No,No,2,4
+52,Sales,Research Director,1454,2,12,No,No,4,30
+44,R&D,Research Director,19408,3,10,No,No,3,35
+40,HR,Laboratory Technician,10557,5,1,Yes,Yes,2,18
+48,Sales,Research Director,2038,3,11,Yes,No,2,30
+56,HR,Sales Executive,14736,5,19,No,No,3,32
+23,R&D,Laboratory Technician,14586,3,12,No,No,2,25
+36,HR,Research Director,10726,5,14,No,No,3,39
+32,HR,Healthcare Representative,8067,3,17,Yes,No,2,34
+37,HR,Manufacturing Director,14856,2,9,Yes,Yes,2,39
+53,Sales,Sales Executive,13205,4,22,No,No,4,21
+46,HR,Manager,16206,1,10,No,No,2,8
+58,HR,Healthcare Representative,8090,1,2,No,No,2,14
+34,Sales,Sales Executive,14378,5,15,Yes,Yes,3,19
+38,HR,Research Director,4422,4,19,No,No,4,16
+40,Sales,Research Director,3369,3,14,No,No,4,34
+22,HR,Research Scientist,3472,2,5,Yes,Yes,4,38
+24,HR,Manager,5364,1,15,No,No,4,21
+18,Sales,Healthcare Representative,12269,4,23,No,No,1,15
+54,HR,Research Scientist,14058,5,27,Yes,No,2,10
+50,R&D,Research Director,6199,3,12,No,No,3,28
+54,Sales,Human Resources,8375,5,7,Yes,No,3,30
+56,Sales,Manager,13246,4,26,Yes,No,3,40
+56,R&D,Human Resources,6744,3,15,Yes,No,1,30
+35,Sales,Laboratory Technician,16289,2,8,Yes,No,2,4
+46,Sales,Laboratory Technician,6988,5,9,No,No,3,3
+57,Sales,Laboratory Technician,8100,1,11,Yes,No,1,24
+34,Sales,Manager,4832,4,9,No,No,2,6
+34,R&D,Manager,9237,3,3,No,Yes,2,40
+32,HR,Human Resources,12388,1,6,No,No,4,32
+23,R&D,Research Director,4677,2,21,No,Yes,4,7
+51,HR,Healthcare Representative,8894,2,3,Yes,Yes,2,16
+33,Sales,Manufacturing Director,13929,3,8,No,Yes,2,32
+47,Sales,Sales Executive,19711,1,2,No,No,4,37
+19,R&D,Manufacturing Director,13517,4,9,No,No,1,36
+51,R&D,Research Director,6379,4,5,No,No,4,17
+55,HR,Laboratory Technician,4796,2,14,No,Yes,4,0
+53,R&D,Manager,11152,4,23,No,No,4,10
+46,R&D,Manager,14656,2,6,No,No,3,23
+45,Sales,Sales Executive,5800,5,8,No,No,2,2
+19,R&D,Research Scientist,5910,4,3,No,No,4,7
+30,R&D,Human Resources,17500,2,26,Yes,No,4,34
+23,R&D,Manager,4657,1,20,Yes,No,4,16
+18,R&D,Manufacturing Director,6792,5,10,Yes,No,1,37
+50,R&D,Healthcare Representative,7638,5,13,No,No,2,3
+44,R&D,Laboratory Technician,18417,1,3,Yes,No,4,39
+50,R&D,Research Scientist,9295,1,12,No,No,4,17
+50,HR,Sales Executive,6629,5,25,Yes,No,1,13
+24,HR,Research Director,7303,1,23,Yes,No,1,8
+53,Sales,Laboratory Technician,12663,4,5,No,Yes,3,11
+23,HR,Research Director,9419,3,25,Yes,No,3,7
+41,R&D,Manager,4443,2,6,Yes,No,1,34
+31,HR,Healthcare Representative,18862,3,10,No,No,4,1
+42,HR,Healthcare Representative,18929,3,26,Yes,No,1,24
+60,R&D,Research Director,14701,2,22,No,No,3,32
+21,R&D,Research Director,19451,3,24,No,No,2,1
+33,HR,Research Director,10169,3,6,No,No,3,12
+41,HR,Research Director,12536,5,8,Yes,No,3,40
+51,Sales,Healthcare Representative,1769,1,14,No,No,3,24
+44,HR,Sales Executive,7634,2,27,No,No,3,40
+40,HR,Manufacturing Director,12682,3,24,No,No,4,17
+38,R&D,Manufacturing Director,9497,2,27,No,Yes,3,7
+40,R&D,Research Director,15701,4,8,No,Yes,2,30
+45,R&D,Human Resources,9125,4,21,No,No,1,35
+50,Sales,Healthcare Representative,3325,2,11,No,Yes,4,28
+55,Sales,Research Director,6996,5,14,No,No,2,25
+37,HR,Manufacturing Director,16142,1,7,No,No,3,39
+31,HR,Laboratory Technician,1085,4,14,No,Yes,3,34
+20,HR,Sales Executive,16807,1,10,No,No,3,18
+35,R&D,Healthcare Representative,5533,4,21,No,Yes,2,18
+32,Sales,Sales Executive,16913,1,21,Yes,No,4,37
+48,R&D,Research Scientist,18120,5,9,No,No,2,11
+32,Sales,Manufacturing Director,10624,4,6,No,Yes,3,25
+30,R&D,Research Scientist,6027,3,29,Yes,No,3,24
+52,Sales,Healthcare Representative,7661,3,1,Yes,Yes,1,29
+34,R&D,Manufacturing Director,13634,4,21,Yes,Yes,1,35
+29,Sales,Sales Executive,13383,4,28,No,No,4,33
+41,R&D,Manufacturing Director,6896,2,9,No,No,1,9
+49,R&D,Research Scientist,15215,3,3,No,No,1,4
+46,Sales,Sales Executive,6804,5,17,No,No,2,26
+24,HR,Research Scientist,9096,5,22,No,Yes,3,27
+56,R&D,Research Director,6220,4,3,No,No,3,23
+33,HR,Laboratory Technician,2765,5,18,Yes,No,4,31
+36,R&D,Healthcare Representative,15618,1,28,No,No,1,28
+18,R&D,Human Resources,6705,2,27,No,No,4,23
+55,R&D,Sales Executive,4573,5,23,No,No,2,16
+42,HR,Sales Executive,7784,2,16,No,No,2,10
+39,HR,Research Director,5582,5,18,No,No,4,7
+56,Sales,Research Director,11205,1,28,No,Yes,2,34
+54,Sales,Laboratory Technician,15700,4,24,No,No,3,3
+58,R&D,Sales Executive,13202,5,15,Yes,No,4,23
+28,Sales,Healthcare Representative,2320,5,21,No,No,2,21
+22,Sales,Healthcare Representative,17209,2,7,No,No,1,37
+49,HR,Sales Executive,8517,5,1,No,No,2,26
+19,R&D,Manufacturing Director,5300,3,21,Yes,No,4,31
+46,Sales,Manufacturing Director,19804,4,29,No,No,4,1
+57,R&D,Manufacturing Director,12944,3,7,Yes,No,3,11
+34,HR,Healthcare Representative,5873,3,25,No,No,3,12
+38,Sales,Healthcare Representative,12632,4,4,Yes,No,1,37
+18,HR,Laboratory Technician,8448,3,3,Yes,No,2,11
+44,Sales,Healthcare Representative,14077,3,10,No,No,1,19
+54,HR,Healthcare Representative,10491,4,27,No,No,3,5
+60,HR,Manager,2395,1,14,No,No,1,2
+39,HR,Sales Executive,16084,2,9,No,No,2,30
+43,HR,Human Resources,15605,1,12,No,Yes,3,30
+47,HR,Research Scientist,19581,2,7,No,No,1,14
+41,Sales,Manager,3037,1,4,No,No,2,2
+51,R&D,Research Scientist,3688,5,26,Yes,No,1,10
+31,HR,Laboratory Technician,12103,2,6,No,Yes,1,14
+29,R&D,Manager,13047,1,22,No,No,3,11
+31,Sales,Sales Executive,17821,1,15,No,No,3,34
+46,R&D,Research Scientist,8511,2,11,Yes,No,1,24
+35,R&D,Human Resources,15984,2,7,No,No,4,18
+50,HR,Human Resources,8504,3,1,No,No,3,5
+34,Sales,Laboratory Technician,9051,5,6,No,No,3,15
+52,Sales,Research Scientist,8582,3,21,Yes,No,3,14
+32,HR,Healthcare Representative,11485,2,7,No,No,1,8
+43,HR,Research Director,11536,3,28,No,No,4,28
+39,HR,Research Scientist,7587,5,24,No,No,3,18
+37,HR,Manufacturing Director,19771,5,8,No,Yes,1,22
+44,HR,Manager,12145,4,16,No,No,1,9
+42,R&D,Healthcare Representative,15933,5,26,No,No,2,23
+46,HR,Laboratory Technician,16341,4,20,Yes,No,2,35
+23,Sales,Manufacturing Director,17088,4,8,Yes,No,3,17
+44,Sales,Research Scientist,1015,2,17,No,No,2,9
+58,Sales,Manufacturing Director,16470,1,1,No,No,3,8
+43,R&D,Healthcare Representative,10234,2,25,Yes,Yes,3,9
+43,R&D,Manufacturing Director,11245,5,22,No,Yes,2,35
+24,HR,Sales Executive,13726,1,25,No,No,4,6
+47,Sales,Research Director,11446,2,26,Yes,No,4,24
+34,R&D,Manager,19318,4,24,Yes,No,1,26
+40,HR,Laboratory Technician,15760,4,13,Yes,No,3,32
+29,Sales,Manager,17463,4,16,No,No,3,18
+29,HR,Manager,15309,2,8,Yes,No,3,26
+19,R&D,Research Director,17722,4,29,No,No,4,40
+20,R&D,Sales Executive,3455,4,22,Yes,No,3,1
+49,HR,Research Scientist,4972,3,4,No,No,2,16
+19,HR,Healthcare Representative,9535,5,19,No,No,3,23
+41,HR,Research Scientist,15983,2,9,Yes,No,3,12
+60,R&D,Human Resources,8838,1,7,No,Yes,2,36
+34,HR,Research Scientist,10858,5,24,No,Yes,1,24
+24,R&D,Laboratory Technician,19041,1,8,No,Yes,2,7
+60,HR,Research Scientist,10987,4,16,No,No,1,27
+37,Sales,Laboratory Technician,3567,3,13,Yes,Yes,4,16
+49,Sales,Manager,10139,5,14,Yes,No,2,17
+50,HR,Research Director,15422,4,13,Yes,No,2,31
+30,HR,Sales Executive,7337,1,1,No,No,1,20
+30,Sales,Manufacturing Director,12952,3,28,No,No,4,20
+56,HR,Research Scientist,3121,5,20,Yes,Yes,2,28
+54,R&D,Laboratory Technician,5877,3,18,No,Yes,1,20
+34,R&D,Healthcare Representative,10905,4,14,Yes,No,4,13
+19,R&D,Healthcare Representative,14564,4,27,No,No,4,31
+43,R&D,Human Resources,2942,1,23,No,No,3,31
+54,HR,Research Scientist,1160,5,1,No,Yes,1,19
+48,R&D,Manager,18163,4,21,Yes,No,2,29
+34,Sales,Sales Executive,11592,4,7,No,Yes,2,6
+39,R&D,Laboratory Technician,12196,1,13,No,No,4,24
+47,HR,Research Director,1803,5,19,Yes,No,4,2
+20,Sales,Healthcare Representative,4101,2,16,Yes,No,1,26
+47,HR,Laboratory Technician,18468,5,18,No,No,1,25
+37,HR,Manager,16380,5,14,No,No,2,15
+48,R&D,Healthcare Representative,14233,4,22,No,No,3,17
+54,R&D,Laboratory Technician,1725,1,7,Yes,No,2,14
+54,R&D,Human Resources,14748,2,22,Yes,No,4,20
+40,R&D,Healthcare Representative,2182,2,3,No,No,2,7
+28,HR,Laboratory Technician,11335,1,19,Yes,No,1,10
+29,R&D,Manager,10921,3,15,No,No,4,4
+51,R&D,Laboratory Technician,5187,3,28,No,No,4,21
+58,R&D,Healthcare Representative,5017,2,16,No,No,3,14
+18,R&D,Laboratory Technician,16192,3,3,Yes,Yes,4,20
+29,HR,Research Director,6147,1,28,Yes,No,2,30
+19,R&D,Sales Executive,17542,1,14,No,No,1,33
+60,HR,Healthcare Representative,12598,2,13,No,No,2,16
+46,R&D,Human Resources,11121,4,8,No,No,3,18
+24,HR,Manufacturing Director,15234,5,15,No,No,1,7
+41,HR,Sales Executive,4316,4,27,Yes,No,3,39
+35,Sales,Research Director,19571,3,18,No,No,4,26
+55,Sales,Manager,12842,3,5,No,No,4,12
+22,Sales,Research Director,17775,3,11,No,No,2,0
+51,R&D,Sales Executive,11350,3,19,Yes,No,2,33
+46,Sales,Sales Executive,8867,4,8,No,No,3,26
+60,HR,Laboratory Technician,19433,2,19,Yes,No,4,21
+60,HR,Manufacturing Director,19104,4,4,No,No,1,20
+21,Sales,Healthcare Representative,16538,2,7,Yes,Yes,4,38
+48,R&D,Manager,5372,2,3,No,No,3,15
+34,Sales,Research Scientist,14963,4,24,No,No,2,40
+31,Sales,Healthcare Representative,3162,3,29,Yes,No,3,1
+41,Sales,Manufacturing Director,5931,5,20,Yes,No,3,31
+28,R&D,Manufacturing Director,3896,3,1,No,Yes,1,25
+38,HR,Human Resources,1416,3,13,No,No,4,1
+25,HR,Manufacturing Director,1414,4,26,No,No,3,23
+19,R&D,Manager,17095,2,28,No,No,2,19
+23,R&D,Research Scientist,9691,2,23,Yes,No,1,39
+58,R&D,Sales Executive,7754,3,6,Yes,No,3,40
+20,Sales,Research Scientist,15120,1,27,No,Yes,1,38
+58,R&D,Manager,1089,1,13,No,No,4,5
+35,R&D,Sales Executive,1158,1,22,No,No,1,34
+18,Sales,Sales Executive,3403,4,21,No,No,1,12
+57,R&D,Laboratory Technician,18514,4,4,No,No,3,30
+23,Sales,Research Director,11176,4,9,Yes,No,1,31
+20,HR,Healthcare Representative,3166,3,12,No,No,2,4
+39,HR,Research Director,8443,2,3,No,No,4,14
+30,R&D,Manufacturing Director,8108,4,6,No,No,1,7
+51,R&D,Research Scientist,14292,5,16,No,Yes,2,24
+36,HR,Laboratory Technician,10815,4,13,Yes,Yes,1,35
+24,HR,Human Resources,3164,4,29,No,Yes,1,26
+56,R&D,Manufacturing Director,14198,4,24,Yes,No,3,28
+23,HR,Manager,2788,5,20,No,No,3,31
+30,HR,Research Director,13751,3,29,No,No,2,32
+31,HR,Research Scientist,15137,5,19,Yes,No,4,4
+48,HR,Research Director,3346,2,11,Yes,Yes,1,30
+34,R&D,Manager,9554,2,23,No,No,1,31
+37,R&D,Human Resources,14291,1,25,No,Yes,1,6
+43,HR,Human Resources,4991,4,5,No,Yes,1,35
+30,Sales,Healthcare Representative,8917,2,25,No,Yes,2,5
+25,Sales,Manufacturing Director,14320,3,22,Yes,Yes,2,14
+60,R&D,Human Resources,8767,5,4,Yes,No,2,1
+32,R&D,Manager,19410,2,21,No,No,3,34
+21,HR,Manufacturing Director,5103,4,1,No,No,1,29
+33,HR,Research Scientist,11911,2,15,Yes,No,3,34
+37,HR,Healthcare Representative,4203,4,25,No,No,4,18
+32,R&D,Healthcare Representative,18352,1,21,Yes,No,1,34
+56,Sales,Research Director,13890,5,24,No,No,3,10
+18,Sales,Manager,13148,1,23,No,No,1,27
+31,R&D,Research Director,17653,1,24,No,No,4,4
+25,R&D,Manufacturing Director,7969,2,13,No,No,1,28
+20,HR,Research Scientist,1871,3,1,Yes,Yes,1,7
+46,R&D,Manufacturing Director,17065,4,18,No,No,1,34
+32,R&D,Human Resources,14903,4,2,Yes,No,1,13
+30,Sales,Human Resources,10234,1,12,No,No,1,8
+58,Sales,Human Resources,18500,3,6,No,No,4,13
+44,HR,Healthcare Representative,10212,1,27,No,No,2,9
+39,R&D,Laboratory Technician,14032,4,9,No,Yes,1,7
+25,HR,Human Resources,2584,1,4,No,No,2,22
+55,Sales,Manufacturing Director,3405,1,4,No,No,1,21
+24,R&D,Manufacturing Director,10731,3,23,No,No,1,35
+47,R&D,Research Scientist,9931,4,19,No,Yes,4,12
+53,R&D,Laboratory Technician,3188,4,9,No,No,4,10
+57,R&D,Manager,10318,3,27,No,No,2,11
+39,Sales,Research Scientist,4826,4,11,Yes,No,1,38
+50,R&D,Human Resources,19902,2,12,No,No,3,16
+52,HR,Manager,13287,5,29,No,No,2,24
+29,R&D,Manufacturing Director,3765,1,23,No,Yes,3,14
+49,R&D,Research Director,19016,4,17,No,No,2,18
+45,Sales,Human Resources,8595,2,11,No,No,3,5
+52,HR,Manager,4846,1,18,No,No,1,36
+51,HR,Research Director,6503,3,5,No,Yes,1,39
+26,R&D,Human Resources,15678,1,15,No,Yes,4,26
+51,R&D,Research Scientist,7083,2,7,No,Yes,3,0
+23,HR,Laboratory Technician,11607,5,14,No,No,3,39
+26,HR,Research Director,6507,2,29,No,Yes,1,31
+43,R&D,Healthcare Representative,12187,1,15,No,No,1,28
+25,HR,Healthcare Representative,2452,1,27,No,Yes,1,13
+35,HR,Manager,15449,3,13,No,No,4,11
+49,R&D,Human Resources,6953,1,9,No,No,3,40
+55,R&D,Human Resources,2124,5,11,No,Yes,1,6
+36,R&D,Laboratory Technician,9060,3,29,No,No,2,32
+54,Sales,Research Scientist,15806,2,16,No,No,3,9
+41,HR,Research Scientist,3751,4,23,No,Yes,3,29
+41,HR,Manager,9159,4,7,No,No,3,15
+52,R&D,Sales Executive,6209,4,9,No,No,1,15
+25,Sales,Laboratory Technician,7050,2,7,No,No,3,1
+47,HR,Human Resources,10328,1,2,No,No,3,18
+23,R&D,Healthcare Representative,5841,2,2,No,No,4,7
+43,Sales,Manufacturing Director,6407,4,14,Yes,No,4,22
+28,Sales,Healthcare Representative,9334,3,26,No,Yes,2,6
+58,Sales,Manufacturing Director,18852,3,17,Yes,Yes,2,4
+29,Sales,Manager,15819,4,10,No,No,2,19
+57,HR,Manager,7466,3,5,No,No,1,28
+51,R&D,Research Scientist,12758,1,23,No,No,4,4
+50,R&D,Research Scientist,19681,4,26,Yes,No,1,20
+23,R&D,Manager,2339,3,13,No,Yes,4,12
+41,Sales,Research Scientist,8566,2,22,No,Yes,2,40
+59,R&D,Research Director,3223,5,19,Yes,No,1,31
+27,R&D,Human Resources,8981,2,3,No,No,4,14
+38,R&D,Manufacturing Director,18356,3,2,No,No,2,34
+27,Sales,Human Resources,3875,2,26,No,Yes,4,14
+42,Sales,Manufacturing Director,10249,5,17,No,Yes,1,18
+33,Sales,Manufacturing Director,7217,3,14,No,No,1,24
+58,R&D,Healthcare Representative,11161,5,29,No,No,3,28
+33,R&D,Manager,16909,4,20,No,Yes,2,20
+53,Sales,Human Resources,9323,2,19,No,No,3,26
+34,HR,Research Director,7742,4,13,Yes,No,4,12
+41,Sales,Manager,4294,4,8,No,No,1,10
+39,R&D,Research Scientist,9556,1,21,No,No,4,27
+31,HR,Research Director,10907,2,17,No,No,3,11
+24,Sales,Manager,7109,1,16,No,No,1,31
+34,R&D,Healthcare Representative,18526,5,9,No,No,4,38
+36,HR,Human Resources,4795,2,20,No,Yes,4,32
+38,Sales,Research Scientist,6694,2,24,No,No,3,11
+60,HR,Human Resources,3167,5,10,No,Yes,3,31
+49,Sales,Research Scientist,13751,1,10,Yes,No,2,9
+50,HR,Human Resources,12917,3,12,No,No,4,24
+31,HR,Manager,19179,3,4,No,No,2,19
+54,Sales,Laboratory Technician,4495,1,18,Yes,No,1,1
+58,Sales,Manufacturing Director,15128,5,4,No,Yes,3,31
+53,Sales,Manufacturing Director,6619,3,24,No,No,2,30
+24,HR,Human Resources,8569,1,22,No,No,4,28
+53,R&D,Manager,15350,2,21,Yes,No,1,11
+48,Sales,Manager,15529,3,14,No,No,2,6
+52,Sales,Sales Executive,19912,5,15,No,No,4,0
+51,HR,Research Scientist,9767,3,10,No,Yes,2,16
+48,Sales,Laboratory Technician,9687,1,17,No,No,4,3
+57,Sales,Human Resources,9112,1,12,No,No,3,20
+25,Sales,Sales Executive,7413,1,16,No,No,1,12
+31,R&D,Manufacturing Director,18202,1,14,No,No,1,0
+38,R&D,Healthcare Representative,19766,3,3,Yes,No,2,17
+60,HR,Sales Executive,19807,2,7,No,No,3,2
+45,Sales,Manager,3286,2,13,No,No,1,6
+35,Sales,Manufacturing Director,13710,3,10,No,No,2,28
+59,R&D,Healthcare Representative,19062,2,16,No,No,1,4
+29,R&D,Human Resources,3759,5,9,Yes,No,4,24
+20,R&D,Manufacturing Director,16999,1,18,No,No,3,10
+44,Sales,Laboratory Technician,10392,4,1,No,No,2,2
+47,Sales,Research Director,4264,1,24,Yes,No,4,2
+37,HR,Manufacturing Director,2574,3,5,Yes,No,4,31
+54,HR,Manufacturing Director,18419,1,13,Yes,No,1,24
+32,HR,Laboratory Technician,6561,5,19,No,Yes,3,27
+19,Sales,Human Resources,7989,2,26,No,No,3,38
+27,Sales,Laboratory Technician,6611,4,19,No,Yes,1,37
+36,HR,Healthcare Representative,14584,4,21,Yes,No,2,28
+54,Sales,Human Resources,18395,3,1,No,No,3,36
+42,HR,Human Resources,8732,4,18,No,No,1,25
+27,R&D,Human Resources,5677,4,1,Yes,No,4,21
+58,HR,Manager,15914,3,26,Yes,No,3,7
+28,HR,Research Director,6291,2,17,No,No,4,12
+49,Sales,Research Scientist,17834,3,23,No,No,1,34
+59,Sales,Manager,2123,5,16,No,No,1,8
+28,Sales,Research Director,17956,3,29,No,No,2,5
+51,Sales,Research Scientist,13496,2,22,No,No,1,20
+20,Sales,Healthcare Representative,1689,3,8,No,No,1,39
+20,Sales,Sales Executive,6524,2,25,No,Yes,3,3
+27,R&D,Human Resources,15446,5,27,No,No,1,21
+35,Sales,Research Director,19888,1,22,Yes,No,3,36
+27,R&D,Research Director,5499,4,27,No,No,2,10
+52,HR,Research Director,13046,3,18,No,Yes,1,18
+46,R&D,Manufacturing Director,19488,2,14,No,No,3,13
+24,Sales,Research Director,11984,2,24,No,Yes,3,33
+29,Sales,Manager,13169,3,10,Yes,No,2,14
+55,Sales,Research Director,19620,5,10,No,Yes,3,32
+32,R&D,Laboratory Technician,13780,5,9,No,No,2,27
+37,Sales,Manager,9300,1,16,Yes,No,1,3
+25,R&D,Manager,14397,4,18,No,No,3,34
+41,R&D,Human Resources,10191,4,18,Yes,No,4,40
+47,HR,Healthcare Representative,8215,5,14,No,No,2,20
+56,R&D,Sales Executive,16499,3,18,No,Yes,4,13
+47,R&D,Sales Executive,18849,3,28,No,No,3,39
+29,R&D,Sales Executive,11516,5,1,No,No,4,23
+41,R&D,Laboratory Technician,3784,5,7,No,No,2,7
+48,Sales,Manufacturing Director,3169,2,16,Yes,Yes,4,14
+23,HR,Research Scientist,14002,5,14,No,Yes,4,3
+42,R&D,Healthcare Representative,4676,3,24,No,No,4,40
+56,HR,Manager,19982,3,10,No,Yes,4,29
+22,HR,Research Scientist,5234,4,6,No,No,2,13
+38,HR,Manufacturing Director,10726,2,11,Yes,No,2,7
+42,Sales,Research Scientist,13237,2,18,No,No,2,25
+57,Sales,Research Director,9804,5,11,Yes,No,1,5
+21,Sales,Laboratory Technician,10198,2,3,No,No,4,11
+29,Sales,Manager,15624,4,21,Yes,Yes,1,1
+21,R&D,Sales Executive,16331,3,22,No,No,1,14
+60,R&D,Manufacturing Director,17707,1,16,Yes,Yes,2,36
+35,Sales,Research Scientist,7094,4,28,No,No,2,29
+59,R&D,Laboratory Technician,13905,1,4,Yes,No,2,11
+25,HR,Laboratory Technician,9351,1,6,No,No,4,20
+51,R&D,Manager,12574,4,15,Yes,No,4,20
+36,Sales,Healthcare Representative,16503,3,1,Yes,No,2,19
+19,Sales,Research Scientist,11654,1,23,No,No,1,30
+44,Sales,Healthcare Representative,17001,1,11,No,Yes,3,6
+54,R&D,Sales Executive,19449,5,24,No,No,2,26
+18,R&D,Manufacturing Director,16162,3,27,No,No,2,26
+59,R&D,Sales Executive,16286,5,22,No,Yes,3,27
+56,HR,Research Scientist,18392,1,14,No,Yes,3,8
+26,Sales,Healthcare Representative,6897,5,17,No,No,1,3
+53,R&D,Manager,10107,2,7,Yes,Yes,2,33
+38,R&D,Healthcare Representative,12024,1,21,No,No,4,8
+29,Sales,Human Resources,4662,1,24,No,Yes,1,18
+52,R&D,Research Scientist,3785,2,14,Yes,No,1,2
+52,HR,Healthcare Representative,4184,3,15,Yes,No,2,14
+55,HR,Human Resources,11284,2,1,Yes,No,4,3
+45,HR,Research Scientist,8779,2,11,No,No,1,18
+29,R&D,Manager,7367,3,10,Yes,No,1,38
+43,Sales,Research Scientist,12524,4,12,No,No,2,40
+52,HR,Research Scientist,18792,5,22,No,No,1,36
+22,Sales,Manager,13503,2,29,No,Yes,4,28
+49,R&D,Laboratory Technician,18482,2,15,Yes,No,3,36
+57,HR,Manufacturing Director,16207,3,29,No,Yes,2,15
+48,HR,Manufacturing Director,12854,3,6,No,Yes,4,24
+18,HR,Healthcare Representative,5715,4,20,Yes,No,3,5
+56,R&D,Manager,14981,5,16,Yes,No,1,19
+59,HR,Sales Executive,16635,4,7,No,No,2,3
+60,R&D,Manager,2410,2,7,No,No,2,34
+55,Sales,Manufacturing Director,18135,3,25,No,Yes,2,3
+27,HR,Sales Executive,12266,5,20,No,No,1,6
+50,HR,Manufacturing Director,15220,4,2,No,Yes,1,33
+21,HR,Human Resources,4976,5,18,Yes,No,1,36
+35,Sales,Laboratory Technician,18716,2,22,No,No,1,33
+24,Sales,Manufacturing Director,10431,3,6,Yes,Yes,2,38
+60,R&D,Laboratory Technician,6841,5,14,No,No,1,38
+31,Sales,Human Resources,19046,2,6,Yes,Yes,2,6
+41,R&D,Manager,4571,1,17,No,No,3,26
+27,R&D,Sales Executive,10916,2,13,No,No,4,28
+33,R&D,Healthcare Representative,12458,3,22,Yes,No,4,7
+43,R&D,Research Director,10741,1,6,No,No,1,30
+46,Sales,Human Resources,18545,2,11,No,No,1,39
+58,R&D,Research Scientist,17091,4,4,No,No,4,31
+49,HR,Manufacturing Director,19668,4,19,Yes,No,2,21
+60,R&D,Research Director,10774,2,29,No,No,2,15
+48,HR,Healthcare Representative,8884,5,15,No,No,1,22
+54,Sales,Research Scientist,17523,3,17,No,No,4,39
+27,R&D,Manager,17074,3,21,No,No,4,27
+26,R&D,Research Scientist,12299,3,22,No,Yes,3,32
+18,Sales,Sales Executive,12625,4,16,No,No,2,34
+53,HR,Laboratory Technician,7388,5,1,Yes,No,1,19
+53,R&D,Human Resources,11083,3,10,No,No,3,29
+24,HR,Laboratory Technician,5125,4,29,No,No,1,30
+38,Sales,Research Director,1326,1,24,No,Yes,3,29
+27,Sales,Manager,13933,4,25,Yes,No,3,18
+41,Sales,Research Scientist,18702,3,15,Yes,No,3,12
+50,HR,Manager,4871,3,24,No,No,4,33
+19,Sales,Laboratory Technician,15774,4,12,No,No,2,25
+52,R&D,Human Resources,3392,2,22,No,No,1,14
+58,R&D,Research Director,13288,4,24,No,No,1,3
+35,R&D,Research Scientist,6827,2,9,Yes,No,2,25
+38,Sales,Manufacturing Director,7510,2,15,No,No,4,32
+28,R&D,Research Director,10560,4,10,Yes,No,2,3
+32,HR,Laboratory Technician,6743,5,8,No,Yes,1,35
+30,HR,Manufacturing Director,5439,4,2,Yes,Yes,3,17
+59,HR,Research Scientist,2435,4,24,No,No,4,35
+42,HR,Research Scientist,16523,2,5,No,Yes,1,37
+19,R&D,Human Resources,12356,5,28,No,No,3,16
+47,HR,Human Resources,16130,5,18,No,No,4,17
+44,R&D,Research Scientist,10947,1,4,No,No,1,8
+43,R&D,Human Resources,9919,1,6,No,No,4,26
+40,HR,Manufacturing Director,13331,1,22,No,No,4,0
+22,Sales,Human Resources,7916,3,17,No,No,2,19
+27,R&D,Laboratory Technician,7849,2,18,No,No,2,3
+47,R&D,Healthcare Representative,19918,1,20,No,No,1,37
+25,R&D,Healthcare Representative,12682,4,21,No,No,2,17
+22,Sales,Manager,3603,4,16,No,No,4,37
+39,R&D,Manager,11358,4,20,No,No,2,14
+60,Sales,Sales Executive,4782,4,28,Yes,No,3,12
+25,Sales,Sales Executive,7820,2,2,No,No,3,20
+45,Sales,Human Resources,11186,1,25,Yes,No,3,35
+54,HR,Manufacturing Director,3790,3,24,No,No,3,39
+48,R&D,Research Director,13701,4,7,No,Yes,3,5
+54,R&D,Manufacturing Director,14686,1,25,No,No,2,31
+48,R&D,Healthcare Representative,16792,4,2,No,No,1,31
+49,Sales,Sales Executive,18368,2,20,No,No,3,15
+28,HR,Sales Executive,5295,4,6,Yes,No,1,38
+42,R&D,Human Resources,12060,5,27,Yes,No,1,3
+34,HR,Sales Executive,3576,2,5,No,No,2,28
+36,HR,Research Scientist,5706,1,19,No,No,1,31
+32,Sales,Healthcare Representative,17285,1,18,No,No,2,37
+47,R&D,Research Scientist,2444,3,27,Yes,No,2,7
+43,Sales,Research Scientist,6875,1,26,No,No,3,35
+23,HR,Research Director,14709,2,3,Yes,No,2,30
+55,HR,Manufacturing Director,1734,4,28,No,No,1,26
+27,R&D,Human Resources,14421,5,24,Yes,No,4,19
+37,R&D,Human Resources,15276,2,18,No,No,1,38
+53,HR,Research Scientist,3144,1,4,No,No,1,4
+48,HR,Research Scientist,10198,1,26,Yes,No,3,25
+51,Sales,Research Director,6150,5,20,No,No,3,26
+36,Sales,Research Director,19442,1,16,No,Yes,2,1
+45,HR,Sales Executive,1265,1,12,No,Yes,4,29
+36,HR,Manufacturing Director,9720,1,9,No,No,4,15
+29,HR,Healthcare Representative,17383,1,10,No,No,3,15
+23,R&D,Healthcare Representative,16303,4,20,No,No,4,24
+52,R&D,Sales Executive,10253,5,5,No,No,3,29
+60,HR,Laboratory Technician,13435,5,1,No,Yes,2,38
+19,R&D,Healthcare Representative,15361,5,19,No,No,2,14
+59,R&D,Human Resources,12463,4,3,Yes,No,4,30
+21,R&D,Human Resources,7562,1,5,No,No,3,20
+42,R&D,Human Resources,9592,4,23,Yes,No,4,32
+36,HR,Laboratory Technician,11985,2,26,No,No,4,18
+51,Sales,Laboratory Technician,4249,2,18,Yes,No,4,7
+41,Sales,Research Scientist,17430,4,8,Yes,No,2,15
+23,HR,Sales Executive,7314,4,18,No,No,1,7
+19,Sales,Human Resources,18141,3,8,No,Yes,4,20
+42,R&D,Human Resources,16486,1,17,No,No,3,38
+19,Sales,Human Resources,10547,5,26,No,No,1,11
+57,HR,Human Resources,3310,2,5,No,No,4,37
+32,R&D,Healthcare Representative,6393,2,22,No,No,1,19
+46,Sales,Sales Executive,12911,5,7,No,Yes,3,24
+44,HR,Healthcare Representative,1655,2,3,No,No,3,39
+19,HR,Research Scientist,9343,4,14,No,No,3,4
+52,HR,Sales Executive,2466,1,8,Yes,No,4,3
+54,Sales,Healthcare Representative,8687,2,29,No,Yes,3,0
+24,HR,Research Scientist,4006,4,13,No,No,3,14
+24,R&D,Research Director,15331,3,23,No,No,1,38
+45,R&D,Manager,16336,3,3,No,No,4,7
+52,Sales,Sales Executive,2473,4,22,No,Yes,4,15
+27,R&D,Research Scientist,3670,3,26,No,Yes,3,2
+30,Sales,Human Resources,18773,1,9,No,No,3,16
+55,R&D,Laboratory Technician,12563,1,21,Yes,No,3,19
+47,R&D,Sales Executive,2868,3,13,No,No,4,14
+54,HR,Sales Executive,1117,3,19,No,No,4,32
+55,Sales,Laboratory Technician,8663,2,17,No,No,1,26
+55,R&D,Sales Executive,1989,3,25,No,No,1,15
+30,HR,Laboratory Technician,2993,1,25,No,No,4,28
+43,HR,Human Resources,3728,4,28,No,No,3,29
+46,Sales,Manager,4378,5,6,No,No,3,30
+43,Sales,Healthcare Representative,1543,1,25,No,No,4,23
+34,HR,Human Resources,15264,4,6,No,No,3,28
+41,R&D,Manager,10726,4,9,No,No,1,21
+19,Sales,Manager,4656,4,1,Yes,No,1,6
+21,R&D,Manufacturing Director,16968,2,24,No,Yes,3,1
+47,HR,Research Scientist,6992,5,8,Yes,No,3,25
+36,R&D,Healthcare Representative,7640,4,13,No,No,2,13
+34,R&D,Manufacturing Director,15316,4,9,No,No,4,36
+43,R&D,Sales Executive,6361,5,7,No,No,2,32
+47,HR,Laboratory Technician,2436,1,5,No,No,1,34
+25,R&D,Manager,1483,2,1,No,Yes,2,21
+60,HR,Human Resources,3961,4,16,Yes,Yes,3,20
+24,R&D,Healthcare Representative,5784,1,17,No,No,1,26
+47,HR,Human Resources,9673,5,12,No,Yes,2,38
+54,HR,Manufacturing Director,5846,3,13,No,No,2,18
+48,R&D,Manufacturing Director,17097,4,20,No,No,1,25
+32,R&D,Manufacturing Director,7114,5,7,No,No,4,2
+50,HR,Research Scientist,6332,3,10,No,No,3,17
+40,HR,Research Director,12020,4,14,Yes,Yes,1,32
+41,R&D,Manager,9221,4,16,No,No,4,23
+34,Sales,Sales Executive,4320,3,28,No,Yes,1,24
+25,Sales,Laboratory Technician,17470,2,29,No,No,2,22
+46,Sales,Healthcare Representative,10898,5,6,No,No,1,31
+40,Sales,Sales Executive,3064,1,4,No,No,2,4
+27,Sales,Laboratory Technician,1779,3,24,No,Yes,1,30
+37,Sales,Research Scientist,18389,4,9,Yes,Yes,4,27
+55,HR,Research Scientist,5759,2,21,No,Yes,4,6
+46,R&D,Research Director,11655,1,1,Yes,No,3,1
+32,Sales,Manufacturing Director,6875,2,6,Yes,No,1,34
+49,Sales,Research Director,13714,1,28,No,No,2,31
+52,R&D,Manager,7070,1,10,Yes,No,3,31
+37,HR,Sales Executive,18670,4,8,No,No,4,10
+30,HR,Sales Executive,18222,1,2,No,No,2,37
+34,Sales,Laboratory Technician,9399,3,23,No,No,2,1
+19,R&D,Laboratory Technician,8624,3,11,No,No,3,39
+29,HR,Research Director,14077,4,16,No,No,4,29
+33,Sales,Laboratory Technician,2630,2,4,No,No,4,11
+48,R&D,Human Resources,18093,1,24,No,No,2,7
+26,HR,Sales Executive,9740,4,14,No,No,4,17
+32,R&D,Laboratory Technician,13097,3,10,Yes,No,4,34
+27,R&D,Manufacturing Director,4372,3,1,No,No,1,9
+28,Sales,Human Resources,8911,5,20,No,No,2,31
+22,R&D,Research Scientist,13581,5,1,Yes,No,4,17
+53,HR,Healthcare Representative,14330,4,1,Yes,No,2,36
+21,HR,Manufacturing Director,19982,5,2,Yes,Yes,1,8
+38,HR,Human Resources,19050,3,13,No,No,4,5
+56,Sales,Healthcare Representative,18018,1,20,No,No,2,2
+45,Sales,Human Resources,5605,2,1,No,No,4,12
+25,Sales,Human Resources,15643,3,10,No,No,4,5
+44,Sales,Laboratory Technician,18529,3,11,No,No,1,32
+52,Sales,Human Resources,4290,1,24,No,No,1,23
+34,Sales,Manufacturing Director,5419,1,23,Yes,No,3,9
+27,Sales,Manufacturing Director,18047,5,23,No,Yes,4,3
+47,Sales,Laboratory Technician,12770,5,10,No,No,1,0
+22,Sales,Human Resources,14955,3,8,No,No,1,18
+39,Sales,Healthcare Representative,6533,1,12,No,No,3,15
+44,HR,Sales Executive,11443,1,13,No,No,2,6
+35,Sales,Manager,7729,5,8,No,No,4,27
+47,HR,Research Scientist,14023,3,23,Yes,No,1,5
+43,R&D,Laboratory Technician,19004,4,11,No,No,3,3
+41,HR,Manufacturing Director,19648,1,1,No,No,3,26
+34,HR,Laboratory Technician,15976,3,29,No,No,1,14
+48,R&D,Healthcare Representative,10297,4,11,Yes,No,3,23
+58,R&D,Manufacturing Director,8859,3,28,No,No,4,35
+25,HR,Research Director,1750,4,13,No,Yes,2,17
+31,Sales,Manager,15230,4,26,No,Yes,2,39
+43,HR,Human Resources,7907,5,2,Yes,No,2,10
+52,HR,Research Scientist,1735,1,8,No,No,4,19
+39,R&D,Manufacturing Director,17566,3,13,No,Yes,4,35
+19,HR,Manufacturing Director,13108,3,22,No,No,4,38
+43,HR,Sales Executive,19315,4,22,No,No,4,17
+39,Sales,Research Director,5725,5,20,No,Yes,2,37
+20,R&D,Human Resources,13604,4,2,Yes,No,1,26
+24,R&D,Healthcare Representative,10293,2,7,No,No,2,3
+35,Sales,Manager,9621,2,11,No,No,4,37
+49,Sales,Manufacturing Director,12354,5,14,No,Yes,1,25
+40,R&D,Human Resources,13965,1,14,No,No,2,23
+53,HR,Research Director,12546,1,15,No,No,2,27
+38,R&D,Laboratory Technician,9804,5,6,Yes,No,2,25
+18,R&D,Sales Executive,3417,3,19,Yes,No,4,16
+54,HR,Manager,1002,1,6,Yes,No,1,18
+41,Sales,Research Director,17669,5,1,No,No,1,38
+40,Sales,Research Scientist,12039,2,3,No,No,2,3
+30,HR,Research Scientist,12470,1,5,No,No,1,12
+40,HR,Research Director,15980,5,29,Yes,No,2,25
+49,Sales,Sales Executive,16214,3,3,No,No,4,0
+30,Sales,Laboratory Technician,19049,4,28,No,Yes,2,4
+24,HR,Manager,12960,1,20,No,No,1,17
+56,HR,Manager,5615,1,22,Yes,No,4,33
+50,HR,Manufacturing Director,10220,4,13,No,No,3,2
+45,Sales,Manager,16935,1,15,Yes,No,2,11
+20,Sales,Research Director,15514,5,14,No,No,2,23
+41,R&D,Laboratory Technician,17987,5,1,No,Yes,4,15
+27,HR,Sales Executive,8887,2,8,No,No,2,7
+55,HR,Healthcare Representative,2088,4,9,No,No,2,15
+26,HR,Manufacturing Director,8647,2,28,No,Yes,4,14
+39,Sales,Sales Executive,1597,3,4,Yes,No,4,26
+23,R&D,Laboratory Technician,10028,2,26,No,No,1,31
+44,Sales,Manager,18059,2,25,Yes,No,2,36
+43,HR,Research Director,11576,2,17,Yes,No,3,15
+29,R&D,Healthcare Representative,3720,1,12,Yes,No,3,12
+19,HR,Research Scientist,13738,2,11,No,No,4,29
+25,Sales,Research Scientist,6214,1,28,Yes,No,4,19
+48,Sales,Human Resources,13576,1,13,No,No,1,26
+36,HR,Research Director,6205,1,21,No,No,4,3
+54,Sales,Laboratory Technician,1889,1,8,Yes,No,1,11
+56,R&D,Sales Executive,16027,5,21,Yes,No,1,25
+20,Sales,Human Resources,7167,1,15,No,No,3,6
+40,R&D,Human Resources,8823,2,7,No,No,4,1
+51,Sales,Laboratory Technician,15211,3,29,No,No,2,12
+27,R&D,Human Resources,8811,4,18,No,No,2,39
+53,Sales,Research Director,4544,1,3,Yes,No,1,2
+26,HR,Human Resources,17888,1,7,Yes,No,4,12
+20,HR,Research Scientist,15690,4,17,No,No,3,21
+28,R&D,Research Director,13903,5,11,No,No,4,40
+59,R&D,Sales Executive,18115,4,5,Yes,No,3,14
+60,R&D,Research Scientist,16126,4,21,No,Yes,3,32
+33,R&D,Manufacturing Director,3140,2,28,No,No,1,38
+54,R&D,Laboratory Technician,11546,4,9,Yes,Yes,2,32
+38,Sales,Research Scientist,8509,3,27,Yes,No,2,25
+33,HR,Laboratory Technician,16835,5,20,No,No,1,0
+58,Sales,Manager,3698,1,21,No,Yes,3,36
+18,HR,Research Scientist,5095,2,26,No,Yes,3,16
+18,Sales,Research Director,4611,4,4,No,Yes,4,7
+45,HR,Research Director,14708,3,20,Yes,No,3,5
+50,HR,Manager,6765,1,18,Yes,No,1,28
+23,Sales,Laboratory Technician,16531,5,14,No,Yes,4,7
+33,HR,Manufacturing Director,6850,1,10,No,No,3,23
+44,HR,Research Scientist,11565,2,20,No,No,4,17
+24,HR,Sales Executive,14520,2,21,No,No,1,0
+21,R&D,Manufacturing Director,1219,2,22,No,No,4,7
+32,Sales,Healthcare Representative,4432,4,6,Yes,No,2,24
+60,HR,Research Scientist,4606,2,29,No,No,3,6
+60,HR,Manager,14039,1,19,No,No,4,39
+28,Sales,Research Scientist,19136,1,24,No,No,1,12
+56,HR,Laboratory Technician,2229,3,23,Yes,Yes,1,35
+35,HR,Manufacturing Director,7918,4,22,No,No,2,13
+52,R&D,Research Scientist,15915,4,16,No,No,2,26
+45,HR,Healthcare Representative,1637,2,19,Yes,No,2,25
+40,R&D,Manufacturing Director,5705,1,19,Yes,No,2,0
+41,HR,Sales Executive,15459,4,20,No,No,1,28
+54,Sales,Laboratory Technician,3707,4,17,No,No,2,40
+43,HR,Sales Executive,13729,4,15,No,No,1,19
+59,R&D,Sales Executive,2403,4,13,Yes,No,3,20
+30,HR,Manufacturing Director,6786,1,17,Yes,No,2,38
+41,R&D,Sales Executive,17075,3,18,Yes,No,1,11
+59,R&D,Research Scientist,7866,5,19,No,No,4,0
+37,R&D,Healthcare Representative,8587,2,6,No,No,2,5
+35,R&D,Research Scientist,8331,3,2,No,No,4,26
+58,R&D,Laboratory Technician,5557,3,14,No,No,1,9
+41,HR,Research Scientist,11372,3,2,Yes,No,2,8
+31,Sales,Research Scientist,6187,1,22,No,No,2,23
+49,Sales,Manufacturing Director,18980,5,26,No,Yes,1,13
+40,Sales,Laboratory Technician,9983,5,8,Yes,No,4,12
+56,R&D,Manufacturing Director,16545,2,20,Yes,Yes,2,15
+45,Sales,Manufacturing Director,16937,2,27,No,No,2,13
+29,HR,Research Director,15644,2,21,No,No,4,14
+44,HR,Sales Executive,12721,3,28,No,No,4,7
+38,R&D,Human Resources,9627,5,24,No,No,2,15
+23,HR,Laboratory Technician,3683,5,5,No,No,1,28
+38,HR,Manufacturing Director,10058,5,27,No,Yes,3,39
+32,Sales,Human Resources,18851,1,19,No,No,1,24
+38,R&D,Research Scientist,5186,2,20,No,No,2,29
+54,Sales,Research Scientist,13543,4,29,No,No,3,37
+38,R&D,Research Scientist,19740,2,12,Yes,No,1,31
+25,HR,Sales Executive,13523,2,26,No,No,3,1
+56,HR,Healthcare Representative,5822,2,23,No,No,4,4
+57,Sales,Laboratory Technician,9731,5,26,No,No,4,33
+44,Sales,Research Scientist,13939,5,5,No,Yes,3,22
+30,Sales,Research Scientist,4834,5,22,Yes,Yes,2,35
+51,Sales,Manufacturing Director,6938,5,4,No,No,4,38
+57,HR,Research Director,17362,1,14,No,No,4,14
+59,Sales,Human Resources,18683,4,24,No,No,3,11
+34,HR,Manager,17376,4,6,Yes,No,2,20
+32,R&D,Research Director,13305,4,23,No,No,2,4
+30,Sales,Healthcare Representative,16887,3,23,No,No,2,0
+57,Sales,Research Scientist,3391,2,29,No,No,4,37
+34,Sales,Human Resources,2972,2,21,No,No,2,25
+31,HR,Manufacturing Director,2540,3,23,Yes,No,1,5
+56,Sales,Healthcare Representative,15694,4,23,Yes,No,1,23
+27,HR,Sales Executive,1399,2,16,No,No,4,21
+40,HR,Laboratory Technician,6959,2,20,No,No,1,26
+33,HR,Sales Executive,9174,3,28,No,No,4,4
+31,HR,Manufacturing Director,8824,1,23,Yes,No,4,15
+49,Sales,Manager,2539,1,8,No,No,1,4
+41,Sales,Research Director,18584,4,20,Yes,No,2,0
+19,HR,Manager,13345,2,3,Yes,Yes,1,3
+46,HR,Research Scientist,17239,5,21,No,No,2,32
+54,HR,Sales Executive,8368,4,16,No,No,4,37
+24,Sales,Laboratory Technician,15569,3,3,No,No,3,15
+44,HR,Research Director,9786,3,15,No,No,2,10
+55,R&D,Research Director,3249,1,10,Yes,No,2,25
+29,HR,Research Scientist,2159,4,19,No,No,1,33
+60,HR,Research Director,6554,2,6,No,No,1,37
+43,Sales,Research Scientist,3994,5,23,Yes,No,2,7
+36,HR,Laboratory Technician,4317,1,7,No,No,1,7
+30,HR,Research Scientist,7516,4,24,Yes,No,1,19
+46,R&D,Manager,17221,2,6,No,No,1,1
+32,Sales,Research Director,8455,5,13,No,Yes,4,2
+35,Sales,Laboratory Technician,9715,4,22,No,No,4,16
+57,HR,Laboratory Technician,1093,3,28,No,No,2,34
+45,Sales,Healthcare Representative,10048,1,1,No,No,2,9
+27,R&D,Human Resources,15669,4,5,No,No,1,30
+41,HR,Laboratory Technician,17991,3,29,Yes,No,2,6
+42,HR,Manager,9810,3,17,Yes,No,2,22
+58,Sales,Sales Executive,8350,3,24,No,No,3,6
+42,Sales,Healthcare Representative,9307,4,20,No,No,4,24
+53,R&D,Manager,7040,1,21,No,No,1,38
+21,Sales,Research Director,4986,1,29,Yes,Yes,3,1
+37,HR,Sales Executive,5172,5,6,No,No,3,30
+53,HR,Manager,4190,3,13,No,Yes,1,1
+44,HR,Sales Executive,11196,4,15,No,No,3,1
+57,HR,Sales Executive,9786,5,7,Yes,No,3,2
+38,R&D,Laboratory Technician,15753,5,23,Yes,No,3,35
+49,HR,Research Scientist,4599,2,12,No,No,2,30
+55,R&D,Manufacturing Director,18954,2,16,Yes,No,4,20
+60,Sales,Research Scientist,10503,5,10,No,No,2,18
+37,Sales,Research Director,17569,3,2,No,Yes,1,28
+18,R&D,Research Scientist,18647,3,21,No,No,1,11
+38,Sales,Laboratory Technician,18232,2,24,Yes,No,4,2
+33,R&D,Laboratory Technician,6609,2,19,No,Yes,1,8
+47,Sales,Healthcare Representative,9905,1,12,No,No,1,38
+35,HR,Healthcare Representative,6377,1,10,No,No,2,5
+50,Sales,Laboratory Technician,19222,5,21,Yes,No,2,30
+50,HR,Human Resources,10937,5,2,Yes,No,2,18
+53,HR,Healthcare Representative,1738,2,18,No,No,4,14
+43,Sales,Manager,13884,5,8,No,No,1,32
+53,R&D,Research Director,17047,1,14,Yes,No,2,40
+50,HR,Manager,9141,1,22,No,No,2,20
+50,HR,Research Director,5646,2,16,No,No,2,15
+23,HR,Healthcare Representative,11687,4,7,Yes,No,1,9
+18,R&D,Research Director,3534,4,19,Yes,No,3,39
+57,HR,Research Scientist,4640,5,21,Yes,No,2,24
+47,Sales,Healthcare Representative,18271,4,25,No,No,4,25
+18,Sales,Research Director,8728,5,9,No,No,3,32
+23,HR,Research Director,7484,1,1,No,No,2,7
+20,R&D,Healthcare Representative,9500,3,21,No,Yes,4,38
+26,Sales,Research Scientist,1843,3,24,Yes,No,2,1
+55,HR,Manager,1830,4,26,Yes,No,4,30
+26,R&D,Manufacturing Director,8856,5,1,No,No,2,12
+39,Sales,Healthcare Representative,1396,1,22,No,No,1,28
+30,HR,Healthcare Representative,19745,5,25,No,No,3,3
+18,R&D,Manufacturing Director,8347,5,17,No,Yes,2,35
+59,Sales,Manufacturing Director,13698,5,9,No,No,3,21
+60,R&D,Manufacturing Director,15645,1,29,No,No,3,31
+49,R&D,Manager,12486,4,12,Yes,No,3,35
